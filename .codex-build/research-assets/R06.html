@@ -1,0 +1,699 @@
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    
+
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<base href="/mu/">
+<title>上海博物馆</title>
+
+<link rel="icon" href="site/img/favicon.ico">
+<link href="site2/cdn/normalize/8.0.1/normalize.min.css" type="text/css" rel="stylesheet" />
+<link href="site2/cdn/hint.css/2.7.0/hint.min.css" type="text/css" rel="stylesheet" />
+
+<!-- museum-icon library -->
+<link rel="stylesheet" href="site2/iconfont/font_4234991_90b9z0jlki/iconfont.css">
+<!-- museum-char-icon library -->
+<link rel="stylesheet" href="site2/iconfont/font_4243180_1u3k9y3kwal/iconfont.css">
+<!-- museum-timeline library -->
+<link rel="stylesheet" href="site2/iconfont/font_4874642_gi9lcx03si6/iconfont.css">
+
+<link rel="stylesheet" href="site2/css/public-font.css">
+<link rel="stylesheet" href="site2/css/public.css">
+<link rel="stylesheet" href="site2/css/old.css">
+
+<script src="site2/cdn/cash/8.1.5/cash.min.js" type="application/javascript"></script>
+    
+
+<link rel="stylesheet" href="site2/lib/luxbar.min.css">
+<link href="site2/cdn/tippy.js/6.3.7/tippy.min.css" type="text/css" rel="stylesheet" />
+<link href="site2/cdn/tippy.js/6.3.7/themes/light.min.css" type="text/css" rel="stylesheet" />
+<link href="site2/cdn/toastify-js/1.12.0/toastify.min.css" type="text/css" rel="stylesheet" />
+<link rel="stylesheet" href="site2/lib/swiper/swiper-bundle.min.css">
+<link rel="stylesheet" href="site2/lib/fancybox/fancybox.min.css">
+<link rel="stylesheet" href="site2/cdn/simplebar/6.3.2/simplebar.min.css">
+<link rel="stylesheet" href="site2/cdn/overlayscrollbars/2.11.4/styles/overlayscrollbars.min.css">
+<link rel="stylesheet" href="site2/lib/tagger/tagger.min.css">
+<link rel="stylesheet" href="site2/css/luxbar.css">
+<link rel="stylesheet" href="site2/css/headroom.css">
+<link rel="stylesheet" href="site2/css/tippy.css">
+<link rel="stylesheet" href="site2/css/fancybox.css">
+<link rel="stylesheet" href="site2/css/top.css">
+<link rel="stylesheet" href="site2/css/banner.css">
+<link rel="stylesheet" href="site2/css/bottom.css">
+<link rel="stylesheet" href="site2/lib/mailchimp/classic-061523.css">
+<link rel="stylesheet" href="site2/css/newsletter.css">
+
+<link rel="stylesheet" href="site2/cdn/spin.js/spin.css">
+<script src="site2/cdn/spin.js/spin.umd.js"></script>
+
+<script src="site2/cdn/gsap/3.13.0/gsap.min.js" type="application/javascript"></script>
+<script src="site2/cdn/gsap/3.13.0/ScrollToPlugin.min.js" type="application/javascript"></script>
+<script src="site2/cdn/gsap/3.13.0/MotionPathPlugin.min.js" type="application/javascript"></script>
+<script src="site2/cdn/gsap/3.13.0/ScrollTrigger.min.js" type="application/javascript"></script>
+
+<script src="site2/cdn/URI.js/1.19.11/URI.min.js" type="application/javascript"></script>
+<script src="site2/cdn/holder/2.9.8/holder.min.js" type="application/javascript"></script>
+<script src="site2/cdn/handlebars.js/4.7.8/handlebars.min.js" type="application/javascript"></script>
+<script src="site2/cdn/axios/1.11.0/axios.min.js"></script>
+<script src="site2/cdn/infinite-ajax-scroll/3.1.0/infinite-ajax-scroll.min.js"></script>
+<script src="site2/cdn/jquery.imagesloaded/5.0.0/imagesloaded.pkgd.min.js" type="application/javascript"></script>
+<script src="site2/cdn/masonry/4.2.2/masonry.pkgd.min.js" type="application/javascript"></script>
+
+<script src="site2/cdn/popper.js/2.11.8/umd/popper.min.js" type="application/javascript"></script>
+<script src="site2/cdn/tippy.js/6.3.7/tippy.umd.min.js" type="application/javascript"></script>
+<script src="site2/cdn/toastify-js/1.12.0/toastify.min.js" type="application/javascript"></script>
+
+<script src="site2/lib/swiper/swiper-bundle.min.js"></script>
+<script src="site2/lib/fancybox/fancybox.umd.min.js"></script>
+<script src="site2/lib/fancybox/zh_CN.umd.min.js"></script>
+<script src="site2/cdn/simplebar/6.3.2/simplebar.min.js"></script>
+<script src="site2/cdn/overlayscrollbars/2.11.4/browser/overlayscrollbars.browser.es6.min.js"></script>
+<script src="site2/cdn/headroom/0.12.0/headroom.min.js" type="application/javascript"></script>
+<script src="//res.wx.qq.com/open/js/jweixin-1.6.0.js"></script>
+<script src="site/lib/validatorjs/validator.min.js"></script>
+<script src="site2/lib/svg-inject.min.js"></script>
+<script src="site2/lib/tagger/tagger.min.js"></script>
+<script src="site2/js/uri.js"></script>
+<script src="site2/js/handlebars.js"></script>
+<script src="site2/js/ajax.js"></script>
+<script src="site2/js/wechat.js"></script>
+<script src="site2/js/utils.js"></script>
+    <style>
+        .antique-picture {
+            display: block;
+            width: 100%;
+            height: 80vh;
+            border: none;
+        }
+
+        .site-article .title {
+            text-align: left;
+        }
+
+        .site-article .subtitle {
+            font-weight: 500;
+            text-align: left;
+        }
+
+        .catalog-list {
+            margin: 20px 0;
+        }
+
+        .catalog-list > li {
+            display: flex;
+            align-items: flex-start;
+            margin-bottom: 10px;
+            line-height: 1.5;
+        }
+
+        .catalog-list > li:last-child {
+            margin-bottom: 0;
+        }
+
+        .catalog-list .left {
+            font-weight: 700;
+            white-space: nowrap;
+        }
+
+        .catalog-list .right > li {
+            margin-bottom: 5px;
+            text-align: justify;
+        }
+
+        .catalog-list .right > li:last-child {
+            margin-bottom: 0;
+        }
+
+        .catalog-list .location-link:hover {
+            text-decoration: underline;
+        }
+
+        .catalog-list .tag {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        .catalog-list .tag-link {
+            padding: 0 5px;
+            background-color: var(--site-second-background-color);
+        }
+
+        .resource {
+            --swiper-theme-color: var(--site-main-color);
+            position: relative;
+            padding: 0 50px;
+            margin: 20px -50px;
+        }
+
+        #swiper1 .swiper-slide {
+            flex-shrink: 1;
+            width: auto;
+        }
+
+        #swiper1 .pic {
+            width: auto;
+            height: 320px;
+        }
+
+        #swiper1 .name {
+            margin-top: 10px;
+            line-height: 1.5;
+            text-align: justify;
+        }
+    </style>
+</head>
+<body class="ch">
+    
+
+
+    <div class="site-top">
+        <a href="frontend/pg/index" class="site-link" style="transform: translateY(3px);" title="首页" tabindex="1">
+            <img src="site2/svg/logo.svg" class="logo" onload="SVGInject(this);">
+        </a>
+        <div class="menu">
+            <a href="frontend/pg/service/visit-east" class="site-link item" data-target=".submenu1" title="到访" tabindex="1">
+                <div class="item-text">到访</div>
+            </a>
+            <a href="frontend/pg/display/index" class="site-link item" data-target=".submenu2" title="参观与活动" tabindex="4">
+                <div class="item-text">参观与活动</div>
+            </a>
+            <a href="frontend/pg/infomation/news?type=all" class="site-link item" data-target=".submenu4" title="信息" tabindex="9">
+                <div class="item-text">信息</div>
+            </a>
+            <a href="frontend/pg/infomation/index" class="site-link item" data-target=".submenu3" title="云游上博" tabindex="12">
+                <div class="item-text">云游上博</div>
+            </a>
+            <ul class="site-list submenu submenu1" style="justify-content: flex-start;">
+                <li><a href="frontend/pg/service/visit-east" class="site-link" title="东馆" tabindex="2">东馆</a></li>
+                <li><a href="frontend/pg/service/visit-west" class="site-link" title="人民广场馆" tabindex="3">人民广场馆</a></li>
+            </ul>
+            <ul class="site-list submenu submenu2" style="justify-content: flex-start;">
+                <li><a href="frontend/pg/display/index?scrollTarget=.gallery-east-title" class="site-link" title="常设展览" tabindex="5">常设展览</a></li>
+                <li><a href="frontend/pg/display/index?scrollTarget=.interact-title" class="site-link" title="互动体验" tabindex="6">互动体验</a></li>
+                <li><a href="frontend/pg/display/offline-exhibit" class="site-link" title="特别展览" tabindex="7">特别展览</a></li>
+                <li><a href="frontend/pg/infomation/activity" target="_blank" class="site-link" title="教育活动" tabindex="8">教育活动</a></li>
+            </ul>
+            <ul class="site-list submenu submenu3" style="flex-wrap: wrap; justify-content: flex-end;">
+                <li><a href="frontend/pg/infomation/index?scrollTarget=.collection-title" class="site-link" title="典藏" tabindex="13">典藏</a></li>
+                <li><a href="frontend/pg/infomation/index?scrollTarget=.topic-title" class="site-link" title="专题" tabindex="14">专题</a></li>
+                <li><a href="frontend/pg/infomation/index?scrollTarget=.digital-title" class="site-link" title="数创" tabindex="15">数创</a></li>
+                <li><a href="frontend/pg/infomation/index?scrollTarget=.research-title" class="site-link" title="研究" tabindex="16">研究</a></li>
+            </ul>
+            <ul class="site-list submenu submenu4" style="justify-content: flex-end;">
+                <li><a href="frontend/pg/infomation/news?type=all" class="site-link" title="新闻与公告" tabindex="10">新闻与公告</a></li>
+                <li><a href="frontend/pg/infomation/about" class="site-link" title="信息公开" tabindex="11">信息公开</a></li>
+            </ul>
+        </div>
+        <div style="flex: 1;"></div>
+        <div class="menu menu-right">
+            <!--
+            <a href="frontend/pg/index?a11y=1" class="site-link item" title="无障碍" tabindex="17">
+                <div class="item-text">无障碍</div>
+            </a>
+            <a href="frontend/pg/index?a11y=2" class="site-link item" title="关怀版" tabindex="18">
+                <div class="item-text">关怀版</div>
+            </a>
+            -->
+            <a href="javascript:void(0);" onclick="adjustForAria();aria.start();" class="site-link item" title="无障碍" tabindex="17">
+                <div class="item-text">无障碍</div>
+            </a>
+            <a href="javascript:void(0);" onclick="adjustForAria();aria.oldFixedStart();" class="site-link item" title="关怀版" tabindex="18">
+                <div class="item-text">关怀版</div>
+            </a>
+            <a href="javascript:void(0);" class="site-link item" data-target=".submenu1" title="预约" tabindex="19">
+                <div class="item-text">预约</div>
+            </a>
+            <a href="frontend/pg/article/id/I00004375" class="site-link item" title="讲解报备" tabindex="22">
+                <div class="item-text">讲解报备</div>
+            </a>
+            <a id="language-button" href="javascript:void(0);" class="site-link item" title="切换语言" tabindex="23">
+                <div class="item-text">
+                    中文&nbsp;<span class="iconfont icon-caret-down" style="font-size: 0.8em;"></span>
+                </div>
+            </a>
+            <a href="javascript:void(0);" class="site-link item" data-fancybox="full-text-search-box" data-src="#full-text-search-box" title="搜索" tabindex="26">
+                <div class="item-text">
+                    <span class="iconfont icon-magnifying-glass"></span>
+                </div>
+            </a>
+            <ul class="site-list submenu submenu1" style="justify-content: flex-start;">
+                <li><a href="frontend/pg/infomation/reservation" class="site-link" title="参观预约" tabindex="20">参观预约</a></li>
+                <li><a href="frontend/pg/infomation/team-reservation" class="site-link" title="团队预约" tabindex="20">团队预约</a></li>
+                <li><a href="frontend/pg/service/guide" class="site-link" title="人工讲解" tabindex="21">人工讲解</a></li>
+            </ul>
+        </div>
+        <div class="bg">
+            <span style="visibility: hidden;">博</span>
+        </div>
+    </div>
+    <div id="full-text-search-box" style="display: none;" data-selectable>
+        <div class="site-dialog-content">
+            <div class="columns">
+                <div class="left">
+                    <input type="text" name="full-text-search-text" placeholder="请输入搜索内容" autocomplete="off" title="请输入搜索内容">
+                </div>
+                <div class="button" onclick="fullTextSearchOnClick();">确定</div>
+            </div>
+        </div>
+    </div>
+
+
+<script>
+    $('.site-top .menu .item').on('focus', function() {
+        if (!$('.site-top').parent().hasClass('home-top')) {
+            $('.site-top .bg').addClass('active');
+        }
+
+        const $this = $(this);
+        $this.siblings('.item').removeClass('active');
+        $this.addClass('active');
+
+        const target = $this.data('target');
+        $this.siblings('.submenu').removeClass('active');
+        if (target) {
+            $this.siblings('.submenu' + target).addClass('active');
+        }
+    });
+    $('.site-top .menu .item').on('mouseenter', function() {
+        if (!$('.site-top').parent().hasClass('home-top')) {
+            $('.site-top .bg').addClass('active');
+        }
+
+        const $this = $(this);
+        $this.siblings('.item').removeClass('active');
+        $this.addClass('active');
+
+        const target = $this.data('target');
+        $this.siblings('.submenu').removeClass('active');
+        if (target) {
+            $this.siblings('.submenu' + target).addClass('active');
+        }
+    });
+    $('.site-top .menu').on('mouseleave', function() {
+        $(this).children().removeClass('active');
+
+        if (!$('.site-top').parent().hasClass('home-top')) {
+            $('.site-top .bg').removeClass('active');
+        }
+    });
+    Fancybox.bind('[data-fancybox="full-text-search-box"]', {
+        mainClass: 'site-dialog-container-transparent',
+        compact: false,
+        closeButton: false,
+        l10n: Fancybox.l10n.zh_CN,
+        on: {
+            reveal: function() {
+                document.querySelector('#full-text-search-box input[name="full-text-search-text"]').value = '';
+            }
+        }
+    });
+    const fullTextSearchOnClick = function() {
+        const value = document.querySelector('#full-text-search-box input[name="full-text-search-text"]').value;
+        location.href = 'frontend/pg/infomation/full-text-search?searchText=' + value;
+    };
+    const fullTextSearchOnClickEn = function() {
+        const value = document.querySelector('#full-text-search-box input[name="full-text-search-text"]').value;
+        location.href = 'frontend/pg/en/infomation/full-text-search?searchText=' + value;
+    };
+
+    tippy('#language-button', {
+        theme: 'lang',
+        appendTo: document.body,
+        content: '<ul class="site-list"><li><a href="frontend/pg/index" class="site-link" title="中文" tabindex="24">中文</a></li><li><a href="frontend/pg/en/index" class="site-link" title="English" tabindex="25">English</a></li></ul>',
+        allowHTML: true,
+        interactive: true
+    });
+</script>
+    <iframe src="frontend/pg/article/aid/CI00000395" class="antique-picture"></iframe>
+    <div style="background-color: #ecebeb; padding: 1em 0; font-size: 12px; color: #838383; text-align: center;">
+        &copy;上海博物馆 <a href="frontend/pg/infomation/download-claim" class="site-link" style="color: #bd1932;">版权所有</a>
+    </div>
+    <div class="site-article">
+        <div class="title">
+            管流爵
+            
+                <a href="javascript:void(0);" class="site-link add-to-my-art-trigger" style="font-size: 0.7em;" title="添加到我的私家艺术史">
+                    <span class="iconfont icon-plus-fill"></span>
+                </a>
+            
+        </div>
+        <div id="my-art-box" style="display: none;" data-selectable></div>
+        <script type="text/x-handlebars-template" id="template1">
+            <div class="site-dialog-content">
+                <div class="title">添加到我的私家艺术史</div>
+                <ul class="site-list">
+                    {{#each data}}
+                        <li>
+                            {{#if checked}}
+                            <label>
+                                <input type="checkbox" checked data-id="{{id}}"> {{title}}
+                            </label>
+                            {{else}}
+                            <label>
+                                <input type="checkbox" data-id="{{id}}"> {{title}}
+                            </label>
+                            {{/if}}
+                        </li>
+                    {{/each}}
+                </ul>
+            </div>
+        </script>
+        <script>
+            const template1 = Handlebars.compile($('#template1').html());
+        </script>
+        <script>
+            $('#my-art-box').on('click', '[type="checkbox"]', function() {
+                const checked = this.checked;
+                get('frontend/member/timeline/add-remove-antique', {
+                    id: $(this).data('id'),
+                    checked: checked,
+                    antiqueCode: 'CI00000395'
+                }).then(function(result) {
+                    Toastify({
+                        text: checked ? '添加成功' : '移除成功',
+                        position: 'center',
+                        style: {
+                            padding: '20px 40px',
+                            fontSize: '18px',
+                            background: '#74b574'
+                        }
+                    }).showToast();
+                }).catch(function() {
+                    Fancybox.close();
+                });
+            });
+
+            $('.add-to-my-art-trigger').on('click', function() {
+                get('frontend/member/get-member-info').then(function(result) {
+                    if (result.msg == 'success') {
+                        get('frontend/member/timeline/my-art-list', {
+                            antiqueCode: 'CI00000395'
+                        }).then(function(result) {
+                            $('#my-art-box').html(template1(result));
+                            Fancybox.show([{
+                                src: "#my-art-box",
+                                type: "inline"
+                            }], {
+                                mainClass: 'site-dialog-container2',
+                                l10n: Fancybox.l10n.zh_CN,
+                                compact: true
+                            });
+                        });
+                    } else {
+                        Toastify({
+                            text: '请先登录 <a href="frontend/member/login" target="_blank" class="site-link" style="text-decoration: underline;">个人中心</a>',
+                            style: {
+                                background: '#bd362f'
+                            },
+                            escapeMarkup: false
+                        }).showToast();
+                    }
+                });
+            });
+        </script>
+        
+        <ul class="site-list catalog-list">
+            
+            
+                <li>
+                    <div class="left">时代：</div>
+                    <ul class="site-list right">
+                        <li>夏</li>
+                    </ul>
+                </li>
+            
+            
+            
+                <li>
+                    <div class="left">类别：</div>
+                    <ul class="site-list right">
+                        <li>
+                            铜器
+                            
+                        </li>
+                    </ul>
+                </li>
+            
+            
+                <li>
+                    <div class="left">进阶类别：</div>
+                    <ul class="site-list right">
+                        
+                            <li>酒器、礼器</li>
+                        
+                    </ul>
+                </li>
+            
+            
+                <li>
+                    <div class="left">尺寸：</div>
+                    <ul class="site-list right">
+                        
+                            <li>高20.6厘米，口纵16.3厘米，口横9.3厘米，腹纵3.6厘米，腹横5.1厘米，腹深11.5厘米</li>
+                        
+                    </ul>
+                </li>
+            
+            
+                <li>
+                    <div class="left">材质：</div>
+                    <ul class="site-list right">
+                        
+                            <li>铜</li>
+                        
+                    </ul>
+                </li>
+            
+            
+                <li>
+                    <div class="left">外观形式：</div>
+                    <ul class="site-list right">
+                        
+                            <li>爵</li>
+                        
+                    </ul>
+                </li>
+            
+            
+            
+            
+                <li>
+                    <div class="left">工艺：</div>
+                    <ul class="site-list right">
+                        
+                            <li>范铸法</li>
+                        
+                    </ul>
+                </li>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <li>
+                    <div class="left">位置：</div>
+                    <ul class="site-list right">
+                        <li>
+                            <span class="iconfont icon-location"></span>
+                            <a href="frontend/pg/article/id/RI00004029#RII00004473" target="_blank" class="site-link location-link">
+                                中国古代青铜馆
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+            
+            
+                <li>
+                    <div class="left">标签：</div>
+                    <ul class="site-list right">
+                        <li class="tag">
+                            
+                                <a href="frontend/pg/collection/antique?keywords=铜" target="_blank" class="site-link tag-link">
+                                    铜
+                                </a>
+                            
+                                <a href="frontend/pg/collection/antique?keywords=酒器" target="_blank" class="site-link tag-link">
+                                    酒器
+                                </a>
+                            
+                                <a href="frontend/pg/collection/antique?keywords=礼器" target="_blank" class="site-link tag-link">
+                                    礼器
+                                </a>
+                            
+                                <a href="frontend/pg/collection/antique?keywords=爵" target="_blank" class="site-link tag-link">
+                                    爵
+                                </a>
+                            
+                                <a href="frontend/pg/collection/antique?keywords=范铸法" target="_blank" class="site-link tag-link">
+                                    范铸法
+                                </a>
+                            
+                        </li>
+                    </ul>
+                </li>
+            
+        </ul>
+        
+            <div class="subtitle">简介</div>
+            <p style="text-indent: 2em;">这件器物在长颈的一侧有斜置的管流，使得容器内的液体可以倾出，是一种注酒或酌酒的器具。容器的底部有一圈宽侈且有圆孔的假腹，假腹下设三足已经残失，这是根据考古资料复原而成。这件爵的式样非常古老，可以和相当于夏代晚期的河南偃师二里头遗址中所出陶爵类比，是目前所见中国最古老的青铜容器之一。夏代晚期青铜器的纹饰都十分简单，主要为弦纹和乳钉纹，装饰的面积也比较小。</p>
+        
+        
+        
+    </div>
+    
+
+
+    <div class="site-bottom">
+        <div>
+            <a href="frontend/pg/index" class="site-link" title="首页">
+                <img src="site2/svg/logo.svg" style="width: 15%; height: auto;" onload="SVGInject(this);" alt="上海博物馆">
+            </a>
+        </div>
+        <div class="site-sitemap">
+            <ul class="site-list" style="flex: 0.7;">
+                <li><span tabindex="0">预约</span></li>
+                <li><a href="frontend/pg/infomation/reservation" target="_blank" class="site-link" title="参观预约">参观预约</a></li>
+                <li><a href="frontend/pg/infomation/team-reservation" class="site-link" title="团队预约">团队预约</a></li>
+                <li><a href="frontend/pg/infomation/activity" target="_blank" class="site-link" title="活动预约">活动预约</a></li>
+                <li><a href="frontend/pg/service/guide" class="site-link" title="人工讲解">人工讲解</a></li>
+            </ul>
+            <ul class="site-list" style="flex: 1.2;">
+                <li><span tabindex="0">到访</span></li>
+                <li><a href="frontend/pg/service/visit-east?scrollTarget=.open-title" class="site-link" title="开放信息东馆"><span>开放信息</span><span class="iconfont icon-pipe"></span>东馆</a></li>
+                <li><span style="visibility: hidden;">开放信息</span><a href="frontend/pg/service/visit-west?scrollTarget=.open-title" class="site-link" title="开放信息人民广场馆"><span class="iconfont icon-pipe"></span>人民广场馆</a></li>
+                <li><a href="frontend/pg/service/visit-east?scrollTarget=.location-title" class="site-link" title="周边信息东馆"><span>周边信息</span><span class="iconfont icon-pipe"></span>东馆</a></li>
+                <li><span style="visibility: hidden;">周边信息</span><a href="frontend/pg/service/visit-west?scrollTarget=.location-title" class="site-link" title="周边信息人民广场馆"><span class="iconfont icon-pipe"></span>人民广场馆</a></li>
+                <li><a href="frontend/pg/service/visit-east?scrollTarget=.equipment-title" class="site-link" title="服务设施东馆"><span>服务设施</span><span class="iconfont icon-pipe"></span>东馆</a></li>
+                <li><span style="visibility: hidden;">服务设施</span><a href="frontend/pg/service/visit-west?scrollTarget=.equipment-title" class="site-link" title="服务设施人民广场馆"><span class="iconfont icon-pipe"></span>人民广场馆</a></li>
+                <li><a href="frontend/pg/service/visit-east?scrollTarget=.service-title" class="site-link" title="服务项目东馆"><span>服务项目</span><span class="iconfont icon-pipe"></span>东馆</a></li>
+                <li><span style="visibility: hidden;">服务项目</span><a href="frontend/pg/service/visit-west?scrollTarget=.service-title" class="site-link" title="服务项目人民广场馆"><span class="iconfont icon-pipe"></span>人民广场馆</a></li>
+            </ul>
+            <ul class="site-list">
+                <li><span tabindex="0">参观与活动</span></li>
+                <li><a href="frontend/pg/display/index?scrollTarget=.gallery-east-title" class="site-link" title="常设展览">常设展览</a></li>
+                <li><a href="frontend/pg/display/index?scrollTarget=.interact-title" class="site-link" title="互动体验">互动体验</a></li>
+                <li><a href="frontend/pg/display/offline-exhibit" class="site-link" title="特别展览">特别展览</a></li>
+                <li><a href="frontend/pg/infomation/activity" target="_blank" class="site-link" title="教育活动">教育活动</a></li>
+            </ul>
+            <ul class="site-list" style="flex: 0.7;">
+                <li><span tabindex="0">信息</span></li>
+                <li><a href="frontend/pg/infomation/news?type=all" class="site-link" title="新闻与公告">新闻与公告</a></li>
+                <li><a href="frontend/pg/infomation/about" class="site-link" title="信息公开">信息公开</a></li>
+                <li><a href="frontend/pg/infomation/privacy" class="site-link" title="隐私条款">隐私条款</a></li>
+                <li><a href="frontend/pg/infomation/download-claim" class="site-link" title="版权声明">版权声明</a></li>
+            </ul>
+            <ul class="site-list">
+                <li><span tabindex="0">云游上博</span></li>
+                <li><a href="frontend/pg/lib1/index" class="site-link" title="数字文物库">数字文物库</a></li>
+                <li><a href="frontend/pg/collection/antique" class="site-link" title="典藏精选">典藏精选</a></li>
+                <li><a href="frontend/pg/infomation/three-object" class="site-link" title="三维藏品">三维藏品</a></li>
+                <li><a href="frontend/pg/infomation/ar" class="site-link" title="AR藏品">AR藏品</a></li>
+                <li><a href="frontend/pg/display/online-exhibit" class="site-link" title="网展">网展</a></li>
+                <li><a href="frontend/pg/infomation/museum-video?type=exhibition" class="site-link" title="视频">视频</a></li>
+                <li><a href="frontend/pg/infomation/three-dimensions?type=special" class="site-link" title="全景展厅">全景展厅</a></li>
+                <li><a href="frontend/pg/infomation/classic-object" class="site-link" title="经典回眸">经典回眸</a></li>
+                <li><a href="frontend/pg/infomation/poster" class="site-link" title="海报">海报</a></li>
+                <li><a href="frontend/pg/infomation/desktop" class="site-link" title="桌面">桌面</a></li>
+                <li><a href="frontend/pg/infomation/manual" class="site-link" title="手册">手册</a></li>
+                <li><a href="frontend/pg/research/museum-research?researchTypeCode=JOURNAL" class="site-link" title="馆刊">馆刊</a></li>
+                <li><a href="frontend/pg/research/museum-research?researchTypeCode=WENBO" class="site-link" title="上海文博">上海文博</a></li>
+                <li><a href="frontend/pg/research/museum-research?researchTypeCode=CATALOG" class="site-link" title="图录">图录</a></li>
+                <li><a href="frontend/pg/research/archeology" class="site-link" title="文物保护与考古科学">文物保护与考古科学</a></li>
+            </ul>
+            <div>
+                <a id="social-button1" href="javascript:void(0);" aria-label="微信" title="微信" class="site-link hint--rounded hint--bottom-right social-button">
+                    <span class="iconfont icon-wechat"></span>
+                </a>
+                <a href="https://weibo.com/u/6584156654" target="_blank" aria-label="微博" title="微博" class="site-link hint--rounded hint--bottom-right social-button">
+                    <span class="iconfont icon-weibo"></span>
+                </a>
+                <a href="https://www.xiaohongshu.com/user/profile/6159a5f0000000000201b661" target="_blank" aria-label="小红书" title="小红书" class="site-link hint--rounded hint--bottom-right social-button">
+                    <span class="iconfont icon-xiaohongshu"></span>
+                </a>
+                <a href="https://space.bilibili.com/586852858" target="_blank" aria-label="哔哩哔哩" title="哔哩哔哩" class="site-link hint--rounded hint--bottom-right social-button">
+                    <span class="iconfont icon-bilibili"></span>
+                </a>
+                <a href="https://www.douyin.com/user/MS4wLjABAAAAvgW-hMLuZNKCgJaueieZXzqQrEeaAace1q-NmJlZ_oE" target="_blank" aria-label="抖音" title="抖音" class="site-link hint--rounded hint--bottom-right social-button">
+                    <span class="iconfont icon-douyin"></span>
+                </a>
+                <a href="https://www.facebook.com/shanghaimuseum" target="_blank" aria-label="facebook" title="facebook" class="site-link hint--rounded hint--bottom-right social-button">
+                    <span class="iconfont icon-facebook"></span>
+                </a>
+                <a href="https://twitter.com/ShanghaiMuseum" target="_blank" aria-label="Twitter" title="Twitter" class="site-link hint--rounded hint--bottom-right social-button">
+                    <span class="iconfont icon-new-twitter"></span>
+                </a>
+                <a href="https://www.instagram.com/theshanghaimuseum" target="_blank" aria-label="Instagram" title="Instagram" class="site-link hint--rounded hint--bottom-right social-button">
+                    <span class="iconfont icon-instagram"></span>
+                </a>
+                <a href="https://www.youtube.com/@theshanghaimuseum" target="_blank" aria-label="YouTube" title="YouTube" class="site-link hint--rounded hint--bottom-right social-button">
+                    <span class="iconfont icon-youtube"></span>
+                </a>
+            </div>
+        </div>
+        
+        <div style="text-align: center; line-height: 2;">
+            <a href="http://bszs.conac.cn/sitename?method=show&id=07B72AA371EE1206E053022819AC3D0C" target="_blank" class="site-link" title="事业单位">
+                <img src="site/img/blue.png" style="height: 40px; vertical-align: middle;" alt="事业单位">
+            </a>
+            <a href="http://wza.isc.org.cn/rzpt/bsgl/dt/20250124/3824.html" target="_blank" class="site-link" title="适老化标识">
+                <img src="site2/img/a11y-logo-1.png" style="height: 30px; vertical-align: middle;" alt="适老化标识">
+            </a>
+            <span tabindex="0">Copyright &copy; 2015 ShanghaiMuseum.net&nbsp;&nbsp;上海博物馆&nbsp;&nbsp;版权所有</span><br>
+            <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31010102006901" target="_blank" class="site-link" title="联网备案号">
+                <img src="https://www.dpm.org.cn/static/themes/image/ico.png" style="height: 20px; vertical-align: middle;" alt="联网备案号">
+            </a>
+            <span tabindex="0">沪公网安备31010102006901号&nbsp;&nbsp;<a href="https://beian.miit.gov.cn" target="_blank" class="site-link">沪ICP备10003390号-4</a></span>
+        </div>
+        
+    </div>
+
+
+<a href="javascript:sectionScrollTo('body');" class="site-link site-to-top" title="回到顶部">
+    <span class="iconfont icon-angle-up"></span>
+</a>
+<script>
+    tippy('#social-button1', {
+        theme: 'qrcode',
+        appendTo: document.body,
+        content: '<img src="site2/img/wechat-qrcode.png" style="display: block; width: 200px;" alt="微信扫码关注">',
+        allowHTML: true,
+        interactive: true,
+        trigger: 'click'
+    });
+
+    ScrollTrigger.create({
+        trigger: 'body',
+        start: 600,
+        onEnter: function() {
+            $('.site-to-top').addClass('site-to-top-show');
+        },
+        onLeaveBack: function() {
+            $('.site-to-top').removeClass('site-to-top-show');
+        }
+    });
+</script>
+<script src="//jhelper.shanghai.gov.cn/publicJS/242006901.js"></script>
+<script src="site2/js/aria.js"></script>
+
+
+
+    <script>
+        if (aria.status()) {
+            adjustForAria();
+        }
+    </script>
+
+</body>
+</html>

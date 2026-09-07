@@ -1,0 +1,290 @@
+{"kind":"deck","id":"pr/nz2yfl","name":"Deck"}
+{"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster1.xml","name":"","type":"master","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime","textPreview":"1/27/13"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout1.xml","name":"Title Slide","type":"title","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"subtitle","type":"subtitle","textPreview":"Click to edit Master subtitle style"},{"name":"dateTime","type":"dateTime","textPreview":"1/27/13"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout2.xml","name":"Title and Content","type":"obj","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"content placeholder 2","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime","textPreview":"1/27/13"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout3.xml","name":"Section Header","type":"secHead","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles"},{"name":"dateTime","type":"dateTime","textPreview":"1/27/13"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout4.xml","name":"Two Content","type":"twoObj","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"content placeholder 2","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"content placeholder 3","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime","textPreview":"1/27/13"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout5.xml","name":"Comparison","type":"twoTxTwoObj","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles"},{"name":"content placeholder 3","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles"},{"name":"content placeholder 5","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime","textPreview":"1/27/13"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout6.xml","name":"Title Only","type":"titleOnly","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"dateTime","type":"dateTime","textPreview":"1/27/13"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout7.xml","name":"Blank","type":"blank","placeholders":[{"name":"dateTime","type":"dateTime","textPreview":"1/27/13"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout8.xml","name":"Content with Caption","type":"objTx","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"content placeholder 2","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles"},{"name":"dateTime","type":"dateTime","textPreview":"1/27/13"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout9.xml","name":"Picture with Caption","type":"picTx","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"picture","type":"picture"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles"},{"name":"dateTime","type":"dateTime","textPreview":"1/27/13"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout10.xml","name":"Title and Vertical Text","type":"vertTx","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime","textPreview":"1/27/13"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout11.xml","name":"Vertical Title and Text","type":"vertTitleAndTx","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime","textPreview":"1/27/13"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"slide","id":"sl/y90nupkv","slide":1,"title":"中国艺术设计史","textShapes":4}
+{"kind":"shape","id":"sh/547294r6","slide":1,"name":"Rectangle 1","bbox":[0,0,1279.97,17.28]}
+{"kind":"shape","id":"sh/k3yl0zql","slide":1,"name":"Rectangle 2","bbox":[0,17.28,1279.97,5.76]}
+{"kind":"shape","id":"sh/7qp4be9c","slide":1,"name":"Rectangle 3","bbox":[0,702.72,1279.97,17.28]}
+{"kind":"shape","id":"sh/65g3298r","slide":1,"name":"Rectangle 4","bbox":[0,696.96,1279.97,5.76]}
+{"kind":"textbox","id":"sh/sryl4zqx","slide":1,"name":"TextBox 6","text":"中国艺术设计史\n依「形式追随功能」重读十章\n夏燕靖　著 · 第 3 版\n设计与技术 · 社会生活 · 审美观念 的关系主线","textPreview":"中国艺术设计史 | 依「形式追随功能」重读十章 | 夏燕靖　著 · 第 3 版 | 设计与技术 · 社会生活 · 审美观念 的关系主线","textChars":61,"textLines":4,"bbox":[86.4,163.2,691.2,345.6]}
+{"kind":"shape","id":"sh/fu94fe98","slide":1,"name":"TextBox 7","bbox":[48,673.92,576,28.8]}
+{"kind":"textbox","id":"sh/utg3698n","slide":1,"name":"TextBox 8","text":"《中国艺术设计史》· 依「形式追随功能」重读","textPreview":"《中国艺术设计史》· 依「形式追随功能」重读","textChars":22,"textLines":1,"bbox":[48,673.92,576,28.8]}
+{"kind":"textbox","id":"sh/wn6dc7eh","slide":1,"name":"TextBox 9","text":"01 / 19","textPreview":"01 / 19","textChars":7,"textLines":1,"bbox":[1097.57,673.92,134.4,28.8]}
+{"kind":"textbox","id":"sh/hofulsf2","slide":1,"name":"AILabel","text":"含 AI 生成","textPreview":"含 AI 生成","textChars":7,"textLines":1,"bbox":[1009.1,659.11,251.97,41.99]}
+{"kind":"image","id":"im/5cze9svq","slide":1,"name":"Picture 5","bbox":[854.4,129.6,422.4,422.4]}
+{"kind":"notes","id":"nt/y90nupkv","slide":1,"text":""}
+{"kind":"slide","id":"sl/hwbqtkby","slide":2,"title":"目录","textShapes":13}
+{"kind":"shape","id":"sh/9072xkry","slide":2,"name":"Rounded Rectangle 1","bbox":[57.6,52.8,8.64,96]}
+{"kind":"textbox","id":"sh/ozy1ofad","slide":2,"name":"TextBox 2","text":"目录","textPreview":"目录","textChars":2,"textLines":1,"bbox":[86.4,57.6,864,96]}
+{"kind":"shape","id":"sh/b29kza94","slide":2,"name":"Rounded Rectangle 3","bbox":[86.4,163.2,1104,90.24]}
+{"kind":"textbox","id":"sh/a10jqpsj","slide":2,"name":"TextBox 4","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[124.8,172.8,86.4,71.04]}
+{"kind":"textbox","id":"sh/x4r21kru","slide":2,"name":"TextBox 5","text":"核心框架\n形式追随功能的三重内涵 —— 实用 · 礼制象征 · 审美生活","textPreview":"核心框架 | 形式追随功能的三重内涵 —— 实用 · 礼制象征 · 审美生活","textChars":36,"textLines":2,"bbox":[230.4,170.88,921.6,76.8]}
+{"kind":"shape","id":"sh/w3i1sfa9","slide":2,"name":"Rounded Rectangle 6","bbox":[86.4,264.96,1104,90.24]}
+{"kind":"textbox","id":"sh/r65knqtk","slide":2,"name":"TextBox 7","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[124.8,274.56,86.4,71.04]}
+{"kind":"textbox","id":"sh/q5wjelsz","slide":2,"name":"TextBox 8","text":"演进主线\n全书功能重心览 —— 生存巫术 → 工业现代（六阶段）","textPreview":"演进主线 | 全书功能重心览 —— 生存巫术 → 工业现代（六阶段）","textChars":32,"textLines":2,"bbox":[230.4,272.64,921.6,76.8]}
+{"kind":"shape","id":"sh/ove9o7yd","slide":2,"name":"Rounded Rectangle 9","bbox":[86.4,366.72,1104,90.24]}
+{"kind":"textbox","id":"sh/9wnqhczy","slide":2,"name":"TextBox 10","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[124.8,376.32,86.4,71.04]}
+{"kind":"textbox","id":"sh/mtwrmxg7","slide":2,"name":"TextBox 11","text":"十章精读\n从萌芽到近现代，逐章看「功能如何决定形式」","textPreview":"十章精读 | 从萌芽到近现代，逐章看「功能如何决定形式」","textChars":26,"textLines":2,"bbox":[230.4,374.4,921.6,76.8]}
+{"kind":"shape","id":"sh/nu58f2hs","slide":2,"name":"Rounded Rectangle 12","bbox":[86.4,468.48,1104,90.24]}
+{"kind":"textbox","id":"sh/wjy9sry9","slide":2,"name":"TextBox 13","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[124.8,478.08,86.4,71.04]}
+{"kind":"textbox","id":"sh/xk7qlczu","slide":2,"name":"TextBox 14","text":"知识拓展·出处\n每章一个知识点，附维基百科来源与参考文献","textPreview":"知识拓展·出处 | 每章一个知识点，附维基百科来源与参考文献","textChars":28,"textLines":2,"bbox":[230.4,476.16,921.6,76.8]}
+{"kind":"shape","id":"sh/ahwrqhgj","slide":2,"name":"Rounded Rectangle 15","bbox":[86.4,570.24,1104,90.24]}
+{"kind":"textbox","id":"sh/bip8jmho","slide":2,"name":"TextBox 16","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[124.8,579.84,86.4,71.04]}
+{"kind":"textbox","id":"sh/cnupgny5","slide":2,"name":"TextBox 17","text":"贯穿性结论\n三条主线与对现代设计的启示","textPreview":"贯穿性结论 | 三条主线与对现代设计的启示","textChars":19,"textLines":2,"bbox":[230.4,577.92,921.6,76.8]}
+{"kind":"shape","id":"sh/do3q9szq","slide":2,"name":"TextBox 18","bbox":[48,673.92,576,28.8]}
+{"kind":"textbox","id":"sh/t8byxkn2","slide":2,"name":"TextBox 19","text":"《中国艺术设计史》· 依「形式追随功能」重读","textPreview":"《中国艺术设计史》· 依「形式追随功能」重读","textChars":22,"textLines":1,"bbox":[48,673.92,576,28.8]}
+{"kind":"textbox","id":"sh/s72xofmh","slide":2,"name":"TextBox 20","text":"02 / 19","textPreview":"02 / 19","textChars":7,"textLines":1,"bbox":[1097.57,673.92,134.4,28.8]}
+{"kind":"notes","id":"nt/hwbqtkby","slide":2,"text":""}
+{"kind":"slide","id":"sl/ofy9wn61","slide":3,"title":"核心框架 · 形式追随功能","textShapes":7}
+{"kind":"shape","id":"sh/cza94vmx","slide":3,"name":"Rounded Rectangle 1","bbox":[57.6,52.8,8.64,96]}
+{"kind":"textbox","id":"sh/d0jax03i","slide":3,"name":"TextBox 2","text":"核心框架 · 形式追随功能","textPreview":"核心框架 · 形式追随功能","textChars":13,"textLines":1,"bbox":[86.4,57.6,864,96]}
+{"kind":"shape","id":"sh/298ryl4v","slide":3,"name":"Rounded Rectangle 3","bbox":[67.2,172.8,374.4,316.8]}
+{"kind":"shape","id":"sh/3ah8rqlg","slide":3,"name":"Rectangle 4","bbox":[91.2,172.8,48,6.72]}
+{"kind":"textbox","id":"sh/obq90bml","slide":3,"name":"TextBox 5","text":"实用功能\n汲水、炊煮、坐卧、农战、生产。\n器形服务于具体用途，如尖底瓶与汲水、铁器与农战。","textPreview":"实用功能 | 汲水、炊煮、坐卧、农战、生产。 | 器形服务于具体用途，如尖底瓶与汲水、铁器与农战。","textChars":45,"textLines":3,"bbox":[94.08,201.6,320.64,268.8]}
+{"kind":"shape","id":"sh/pcjqtg36","slide":3,"name":"Rounded Rectangle 6","bbox":[462.72,172.8,374.4,316.8]}
+{"kind":"shape","id":"sh/m5cra54z","slide":3,"name":"Rectangle 7","bbox":[486.72,172.8,48,6.72]}
+{"kind":"textbox","id":"sh/n6ls3alk","slide":3,"name":"TextBox 8","text":"礼制与象征\n等级、祭祀、礼制、天人关系。\n鼎、尊、簋与纹样受到用器制度和仪式语境的规约。","textPreview":"礼制与象征 | 等级、祭祀、礼制、天人关系。 | 鼎、尊、簋与纹样受到用器制度和仪式语境的规约。","textChars":44,"textLines":3,"bbox":[489.6,201.6,320.64,268.8]}
+{"kind":"shape","id":"sh/n2l4fq98","slide":3,"name":"Rounded Rectangle 9","bbox":[858.24,172.8,374.4,316.8]}
+{"kind":"shape","id":"sh/m1c3mlsn","slide":3,"name":"Rectangle 10","bbox":[882.24,172.8,48,6.72]}
+{"kind":"textbox","id":"sh/943mhgre","slide":3,"name":"TextBox 11","text":"审美与生活\n文人趣味、市民生活、商品流通。\n宋瓷、明式家具与版画呈现审美取向和使用方式对形态的影响。","textPreview":"审美与生活 | 文人趣味、市民生活、商品流通。 | 宋瓷、明式家具与版画呈现审美取向和使用方式对形态的影响。","textChars":50,"textLines":3,"bbox":[885.12,201.6,320.64,268.8]}
+{"kind":"shape","id":"sh/83ulovat","slide":3,"name":"Rounded Rectangle 12","bbox":[67.2,523.2,1145.57,105.6]}
+{"kind":"textbox","id":"sh/v6l4jq94","slide":3,"name":"TextBox 13","text":"技术与材料\n《考工记》提出“天有时，地有气，材有美，工有巧”。功能提出使用要求，材料和工艺限定造物可以实现的形态。","textPreview":"技术与材料 | 《考工记》提出“天有时，地有气，材有美，工有巧”。功能提出使用要求，材料和工艺限定造物可以实现的形态。","textChars":57,"textLines":2,"bbox":[100.8,537.6,1078.37,81.6]}
+{"kind":"shape","id":"sh/a5c3ql8z","slide":3,"name":"TextBox 14","bbox":[48,673.92,576,28.8]}
+{"kind":"textbox","id":"sh/x8nml0ra","slide":3,"name":"TextBox 15","text":"《中国艺术设计史》· 依「形式追随功能」重读","textPreview":"《中国艺术设计史》· 依「形式追随功能」重读","textChars":22,"textLines":1,"bbox":[48,673.92,576,28.8]}
+{"kind":"textbox","id":"sh/w7ulsvqp","slide":3,"name":"TextBox 16","text":"03 / 19","textPreview":"03 / 19","textChars":7,"textLines":1,"bbox":[1097.57,673.92,134.4,28.8]}
+{"kind":"notes","id":"nt/ofy9wn61","slide":3,"text":"课程主张：以功能、材料、技术、制度和审美的关系分析造物。\n参考：夏燕靖《中国艺术设计史》（第3版）；应宜文《“设计”考辨——对中国设计史的一种新认识》，《美术研究》2018年第1期。\n提示：‘形式追随功能’是用于课堂比较的分析框架，不等同于中国古代造物的原生术语。"}
+{"kind":"slide","id":"sl/jyx0ra1s","slide":4,"title":"演进主线 · 全书功能重心一览","textShapes":16}
+{"kind":"shape","id":"sh/1cj2d8b6","slide":4,"name":"Rounded Rectangle 1","bbox":[57.6,52.8,8.64,96]}
+{"kind":"textbox","id":"sh/0ba143al","slide":4,"name":"TextBox 2","text":"演进主线 · 全书功能重心一览","textPreview":"演进主线 · 全书功能重心一览","textChars":15,"textLines":1,"bbox":[86.4,57.6,960,96]}
+{"kind":"shape","id":"sh/rm1k7yt4","slide":4,"name":"Rectangle 3","bbox":[72.96,196.8,1156.8,2.88]}
+{"kind":"shape","id":"sh/ql8jytsj","slide":4,"name":"Oval 4","bbox":[138.24,182.4,32.64,32.64]}
+{"kind":"textbox","id":"sh/doj29oba","slide":4,"name":"TextBox 5","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[138.24,186.24,32.64,24.96]}
+{"kind":"textbox","id":"sh/sna103ap","slide":4,"name":"TextBox 6","text":"萌芽期\n功能\n生存·巫术\n形式\n工具·纹饰","textPreview":"萌芽期 | 功能 | 生存·巫术 | 形式 | 工具·纹饰","textChars":21,"textLines":5,"bbox":[63.36,240,182.4,393.6]}
+{"kind":"shape","id":"sh/3ihk3et8","slide":4,"name":"Oval 7","bbox":[336.96,182.4,32.64,32.64]}
+{"kind":"textbox","id":"sh/ih8ju9sn","slide":4,"name":"TextBox 8","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[336.96,186.24,32.64,24.96]}
+{"kind":"textbox","id":"sh/kbm987y5","slide":4,"name":"TextBox 9","text":"青铜期\n功能\n礼制·象征\n形式\n礼器","textPreview":"青铜期 | 功能 | 礼制·象征 | 形式 | 礼器","textChars":18,"textLines":5,"bbox":[262.08,240,182.4,393.6]}
+{"kind":"shape","id":"sh/5cva1cfq","slide":4,"name":"Oval 10","bbox":[535.68,182.4,32.64,32.64]}
+{"kind":"textbox","id":"sh/i94r6xgz","slide":4,"name":"TextBox 11","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[535.68,186.24,32.64,24.96]}
+{"kind":"textbox","id":"sh/jadsz2xk","slide":4,"name":"TextBox 12","text":"铁器期\n功能\n实用·技术\n形式\n实用器·考工","textPreview":"铁器期 | 功能 | 实用·技术 | 形式 | 实用器·考工","textChars":22,"textLines":5,"bbox":[460.8,240,182.4,393.6]}
+{"kind":"shape","id":"sh/w72947yt","slide":4,"name":"Oval 13","bbox":[734.4,182.4,32.64,32.64]}
+{"kind":"textbox","id":"sh/x8vaxsfe","slide":4,"name":"TextBox 14","text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[734.4,186.24,32.64,24.96]}
+{"kind":"textbox","id":"sh/a5kr2xg3","slide":4,"name":"TextBox 15","text":"大一统\n功能\n大一统·宗教\n形式\n陵墓·石窟","textPreview":"大一统 | 功能 | 大一统·宗教 | 形式 | 陵墓·石窟","textChars":22,"textLines":5,"bbox":[659.52,240,182.4,393.6]}
+{"kind":"shape","id":"sh/v6tsv2xo","slide":4,"name":"Oval 16","bbox":[933.12,182.4,32.64,32.64]}
+{"kind":"textbox","id":"sh/g36tgryd","slide":4,"name":"TextBox 17","text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[933.12,186.24,32.64,24.96]}
+{"kind":"textbox","id":"sh/h4fa9wfy","slide":4,"name":"TextBox 18","text":"宋元明清\n功能\n审美·商品\n形式\n文人器物","textPreview":"宋元明清 | 功能 | 审美·商品 | 形式 | 文人器物","textChars":21,"textLines":5,"bbox":[858.24,240,182.4,393.6]}
+{"kind":"shape","id":"sh/p0batw72","slide":4,"name":"Oval 19","bbox":[1131.84,182.4,32.64,32.64]}
+{"kind":"textbox","id":"sh/oz29krqh","slide":4,"name":"TextBox 20","text":"6","textPreview":"6","textChars":1,"textLines":1,"bbox":[1131.84,186.24,32.64,24.96]}
+{"kind":"textbox","id":"sh/3ytsrmpw","slide":4,"name":"TextBox 21","text":"近现代\n功能\n工业·现代\n形式\n现代设计","textPreview":"近现代 | 功能 | 工业·现代 | 形式 | 现代设计","textChars":20,"textLines":5,"bbox":[1056.96,240,182.4,393.6]}
+{"kind":"textbox","id":"sh/2xkrih8b","slide":4,"name":"TextBox 22","text":"主线：功能重心沿「生存巫术 → 礼制象征 → 实用理性 → 大一统宗教 → 审美商品 → 工业现代」迁移，形式随之流转。","textPreview":"主线：功能重心沿「生存巫术 → 礼制象征 → 实用理性 → 大一统宗教 → 审美商品 → 工业现代」迁移，形式随之流转。","textChars":60,"textLines":1,"bbox":[67.2,609.6,1145.57,57.6]}
+{"kind":"shape","id":"sh/1wbapc7q","slide":4,"name":"TextBox 23","bbox":[48,673.92,576,28.8]}
+{"kind":"textbox","id":"sh/gv29g7q5","slide":4,"name":"TextBox 24","text":"《中国艺术设计史》· 依「形式追随功能」重读","textPreview":"《中国艺术设计史》· 依「形式追随功能」重读","textChars":22,"textLines":1,"bbox":[48,673.92,576,28.8]}
+{"kind":"textbox","id":"sh/fu9sn2p0","slide":4,"name":"TextBox 25","text":"04 / 19","textPreview":"04 / 19","textChars":7,"textLines":1,"bbox":[1097.57,673.92,134.4,28.8]}
+{"kind":"notes","id":"nt/jyx0ra1s","slide":4,"text":""}
+{"kind":"slide","id":"sl/i107q5of","slide":5,"title":"第一章 · 艺术设计的萌芽","textShapes":4}
+{"kind":"shape","id":"sh/dgbulwnm","slide":5,"name":"Rounded Rectangle 1","bbox":[57.6,52.8,8.64,96]}
+{"kind":"textbox","id":"sh/cf2tcr61","slide":5,"name":"TextBox 2","text":"第一章 · 艺术设计的萌芽\n原始社会","textPreview":"第一章 · 艺术设计的萌芽 | 原始社会","textChars":18,"textLines":2,"bbox":[86.4,49.92,998.4,110.4]}
+{"kind":"textbox","id":"sh/z2tcnm5s","slide":5,"name":"TextBox 3","text":"功能重心\n生存与仪式\n形式如何追随\n石器围绕砍砸、切割等劳动形成；彩陶纹样在日常器用之外，也进入仪式与观念表达。\n关键判断\n实用与象征在早期造物中已相互交织。","textPreview":"功能重心 | 生存与仪式 | 形式如何追随 | 石器围绕砍砸、切割等劳动形成；彩陶纹样在日常器用之外，也进入仪式与观念表达。 | 关键判断 | 实用与象征在早期造物中已相互交织。","textChars":79,"textLines":6,"bbox":[81.6,182.4,700.8,470.4]}
+{"kind":"shape","id":"sh/yhkbe1o7","slide":5,"name":"Rounded Rectangle 4","bbox":[820.8,177.6,398.4,398.4]}
+{"kind":"shape","id":"sh/032tgr6d","slide":5,"name":"TextBox 6","bbox":[48,673.92,576,28.8]}
+{"kind":"textbox","id":"sh/n6dcr65o","slide":5,"name":"TextBox 7","text":"《中国艺术设计史》· 依「形式追随功能」重读","textPreview":"《中国艺术设计史》· 依「形式追随功能」重读","textChars":22,"textLines":1,"bbox":[48,673.92,576,28.8]}
+{"kind":"textbox","id":"sh/m5kbi1oj","slide":5,"name":"TextBox 8","text":"05 / 19","textPreview":"05 / 19","textChars":7,"textLines":1,"bbox":[1097.57,673.92,134.4,28.8]}
+{"kind":"image","id":"im/rqdw7qls","slide":5,"name":"Picture 5","bbox":[837.12,193.92,365.76,365.76]}
+{"kind":"notes","id":"nt/i107q5of","slide":5,"text":"核对条目：维基百科《仰韶文化》 https://zh.wikipedia.org/wiki/仰韶文化 （访问：2026-09-07）。条目介绍其农业、石器、日用陶器和彩绘纹样。\n提示：纹样的具体象征含义需结合发掘报告和专业研究，不宜作单一解释。"}
+{"kind":"slide","id":"sl/x8f69ofe","slide":6,"title":"第二章 · 中华文明形成期","textShapes":4}
+{"kind":"shape","id":"sh/yhg7epsj","slide":6,"name":"Rounded Rectangle 1","bbox":[57.6,52.8,8.64,96]}
+{"kind":"textbox","id":"sh/zi98nu94","slide":6,"name":"TextBox 2","text":"第二章 · 中华文明形成期\n新石器时代","textPreview":"第二章 · 中华文明形成期 | 新石器时代","textChars":19,"textLines":2,"bbox":[86.4,49.92,998.4,110.4]}
+{"kind":"textbox","id":"sh/87ipkzal","slide":6,"name":"TextBox 3","text":"功能重心\n定居生活与礼仪表达\n形式如何追随\n陶器围绕汲水、炊煮、储藏等需求形成器类；良渚玉器显示玉材在礼仪、身份与权力表达中的作用。\n关键判断\n玉器逐渐成为礼仪和身份表达的媒介，不能简单等同于实用工具。","textPreview":"功能重心 | 定居生活与礼仪表达 | 形式如何追随 | 陶器围绕汲水、炊煮、储藏等需求形成器类；良渚玉器显示玉材在礼仪、身份与权力表达中的作用。 | 关键判断 | 玉器逐渐成为礼仪和身份表达的媒介，不能简单等同于实用工具。","textChars":101,"textLines":6,"bbox":[81.6,182.4,700.8,470.4]}
+{"kind":"shape","id":"sh/98rqt4r6","slide":6,"name":"Rounded Rectangle 4","bbox":[820.8,177.6,398.4,398.4]}
+{"kind":"shape","id":"sh/7m98ru9g","slide":6,"name":"TextBox 6","bbox":[48,673.92,576,28.8]}
+{"kind":"textbox","id":"sh/oryp8fah","slide":6,"name":"TextBox 7","text":"《中国艺术设计史》· 依「形式追随功能」重读","textPreview":"《中国艺术设计史》· 依「形式追随功能」重读","textChars":22,"textLines":1,"bbox":[48,673.92,576,28.8]}
+{"kind":"textbox","id":"sh/pc76hkr2","slide":6,"name":"TextBox 8","text":"06 / 19","textPreview":"06 / 19","textChars":7,"textLines":1,"bbox":[1097.57,673.92,134.4,28.8]}
+{"kind":"image","id":"im/6xcbq9cz","slide":6,"name":"Picture 5","bbox":[837.12,193.92,365.76,365.76]}
+{"kind":"notes","id":"nt/x8f69ofe","slide":6,"text":"核对条目：维基百科《良渚文化》 https://zh.wikipedia.org/wiki/良渚文化 （访问：2026-09-07）。条目介绍良渚文化的年代、玉琮、玉璧、玉钺及礼仪与权力表达。\n课堂追问：礼仪功能如何改变材料选择与加工成本？"}
+{"kind":"slide","id":"sl/gnmp4jqx","slide":7,"title":"第三章 · 青铜时代","textShapes":4}
+{"kind":"shape","id":"sh/cb2tkvap","slide":7,"name":"Rounded Rectangle 1","bbox":[57.6,52.8,8.64,96]}
+{"kind":"textbox","id":"sh/dcbud0ra","slide":7,"name":"TextBox 2","text":"第三章 · 青铜时代\n夏·商·西周","textPreview":"第三章 · 青铜时代 | 夏·商·西周","textChars":17,"textLines":2,"bbox":[86.4,49.92,998.4,110.4]}
+{"kind":"textbox","id":"sh/ydkbm5sv","slide":7,"name":"TextBox 3","text":"功能重心\n礼制象征\n形式如何追随\n鼎、尊、簋的形制、纹样与用器等级相互关联，体现礼制对造物的规约。\n关键判断\n礼制不仅影响器物形态，也影响材料、工艺与资源的配置。","textPreview":"功能重心 | 礼制象征 | 形式如何追随 | 鼎、尊、簋的形制、纹样与用器等级相互关联，体现礼制对造物的规约。 | 关键判断 | 礼制不仅影响器物形态，也影响材料、工艺与资源的配置。","textChars":81,"textLines":6,"bbox":[81.6,182.4,700.8,470.4]}
+{"kind":"shape","id":"sh/zedcfa9g","slide":7,"name":"Rounded Rectangle 4","bbox":[820.8,177.6,398.4,398.4]}
+{"kind":"shape","id":"sh/l0vuh0rm","slide":7,"name":"TextBox 6","bbox":[48,673.92,576,28.8]}
+{"kind":"textbox","id":"sh/eh0ba1sr","slide":7,"name":"TextBox 7","text":"《中国艺术设计史》· 依「形式追随功能」重读","textPreview":"《中国艺术设计史》· 依「形式追随功能」重读","textChars":22,"textLines":1,"bbox":[48,673.92,576,28.8]}
+{"kind":"textbox","id":"sh/fi9c369c","slide":7,"name":"TextBox 8","text":"07 / 19","textPreview":"07 / 19","textChars":7,"textLines":1,"bbox":[1097.57,673.92,134.4,28.8]}
+{"kind":"image","id":"im/wz6dk3it","slide":7,"name":"Picture 5","bbox":[837.12,193.92,365.76,365.76]}
+{"kind":"notes","id":"nt/gnmp4jqx","slide":7,"text":"核对条目：维基百科《后母戊鼎》 https://zh.wikipedia.org/wiki/后母戊鼎 （访问：2026-09-07）。条目列出其年代、尺寸、纹样与铸造信息，并提示‘后母戊/司母戊’释读存在讨论。\n提示：名称与铭文问题应保留学术争议。"}
+{"kind":"slide","id":"sl/fu1gfa1s","slide":8,"title":"第四章 · 早期铁器时代","textShapes":4}
+{"kind":"shape","id":"sh/18byd4zy","slide":8,"name":"Rounded Rectangle 1","bbox":[57.6,52.8,8.64,96]}
+{"kind":"textbox","id":"sh/g72x4zyd","slide":8,"name":"TextBox 2","text":"第四章 · 早期铁器时代\n春秋·战国","textPreview":"第四章 · 早期铁器时代 | 春秋·战国","textChars":18,"textLines":2,"bbox":[86.4,49.92,998.4,110.4]}
+{"kind":"textbox","id":"sh/ri9g7uhw","slide":8,"name":"TextBox 3","text":"功能重心\n实用与技术理性\n形式如何追随\n铁器适应农耕和战争的需求而扩展；《考工记》把时令、环境、材料、工艺并列为造物条件。\n关键判断\n可借《考工记》理解功能、材料与工艺之间的关联。","textPreview":"功能重心 | 实用与技术理性 | 形式如何追随 | 铁器适应农耕和战争的需求而扩展；《考工记》把时令、环境、材料、工艺并列为造物条件。 | 关键判断 | 可借《考工记》理解功能、材料与工艺之间的关联。","textChars":90,"textLines":6,"bbox":[81.6,182.4,700.8,470.4]}
+{"kind":"shape","id":"sh/6h0fypgb","slide":8,"name":"Rounded Rectangle 4","bbox":[820.8,177.6,398.4,398.4]}
+{"kind":"shape","id":"sh/sjix0zy1","slide":8,"name":"TextBox 6","bbox":[48,673.92,576,28.8]}
+{"kind":"textbox","id":"sh/je9g3ahk","slide":8,"name":"TextBox 7","text":"《中国艺术设计史》· 依「形式追随功能」重读","textPreview":"《中国艺术设计史》· 依「形式追随功能」重读","textChars":22,"textLines":1,"bbox":[48,673.92,576,28.8]}
+{"kind":"textbox","id":"sh/id0fu50z","slide":8,"name":"TextBox 8","text":"08 / 19","textPreview":"08 / 19","textChars":7,"textLines":1,"bbox":[1097.57,673.92,134.4,28.8]}
+{"kind":"image","id":"im/r2tobe1c","slide":8,"name":"Picture 5","bbox":[837.12,193.92,365.76,365.76]}
+{"kind":"notes","id":"nt/fu1gfa1s","slide":8,"text":"核对条目：维基百科《考工记》 https://zh.wikipedia.org/wiki/考工记 （访问：2026-09-07）。\n参考：应宜文《“设计”考辨——对中国设计史的一种新认识》，《美术研究》2018年第1期。\n课堂追问：文本中的‘材有美、工有巧’如何联系当代材料与工艺选择？"}
+{"kind":"slide","id":"sl/udsvah03","slide":9,"title":"第五章 · 秦汉时期","textShapes":4}
+{"kind":"shape","id":"sh/1cfmhgne","slide":9,"name":"Rounded Rectangle 1","bbox":[57.6,52.8,8.64,96]}
+{"kind":"textbox","id":"sh/0b65obm9","slide":9,"name":"TextBox 2","text":"第五章 · 秦汉时期\n秦·汉","textPreview":"第五章 · 秦汉时期 | 秦·汉","textChars":14,"textLines":2,"bbox":[86.4,49.92,998.4,110.4]}
+{"kind":"textbox","id":"sh/nex4jq5k","slide":9,"name":"TextBox 3","text":"功能重心\n大一统与天人秩序\n形式如何追随\n陵墓空间、兵马俑、服饰章纹与丧葬观念、等级秩序相互关联。\n关键判断\n器物与空间在此承担制度表达和身份识别的作用。","textPreview":"功能重心 | 大一统与天人秩序 | 形式如何追随 | 陵墓空间、兵马俑、服饰章纹与丧葬观念、等级秩序相互关联。 | 关键判断 | 器物与空间在此承担制度表达和身份识别的作用。","textChars":77,"textLines":6,"bbox":[81.6,182.4,700.8,470.4]}
+{"kind":"shape","id":"sh/mdonql4z","slide":9,"name":"Rounded Rectangle 4","bbox":[820.8,177.6,398.4,398.4]}
+{"kind":"shape","id":"sh/ofq5svm5","slide":9,"name":"TextBox 6","bbox":[48,673.92,576,28.8]}
+{"kind":"textbox","id":"sh/bih4na5w","slide":9,"name":"TextBox 7","text":"《中国艺术设计史》· 依「形式追随功能」重读","textPreview":"《中国艺术设计史》· 依「形式追随功能」重读","textChars":22,"textLines":1,"bbox":[48,673.92,576,28.8]}
+{"kind":"textbox","id":"sh/ah8nu54b","slide":9,"name":"TextBox 8","text":"09 / 19","textPreview":"09 / 19","textChars":7,"textLines":1,"bbox":[1097.57,673.92,134.4,28.8]}
+{"kind":"image","id":"im/faho3ad0","slide":9,"name":"Picture 5","bbox":[837.12,193.92,365.76,365.76]}
+{"kind":"notes","id":"nt/udsvah03","slide":9,"text":"核对条目：维基百科《秦始皇兵马俑》 https://zh.wikipedia.org/wiki/秦始皇兵马俑 （访问：2026-09-07）。\n课堂追问：丧葬制度如何影响规模、复制方式和视觉秩序？"}
+{"kind":"slide","id":"sl/m90b6t0r","slide":10,"title":"第六章 · 魏晋南北朝","textShapes":4}
+{"kind":"shape","id":"sh/xc3mho32","slide":10,"name":"Rounded Rectangle 1","bbox":[57.6,52.8,8.64,96]}
+{"kind":"textbox","id":"sh/cbu58j2h","slide":10,"name":"TextBox 2","text":"第六章 · 魏晋南北朝\n六朝","textPreview":"第六章 · 魏晋南北朝 | 六朝","textChars":14,"textLines":2,"bbox":[86.4,49.92,998.4,110.4]}
+{"kind":"textbox","id":"sh/zelojyl8","slide":10,"name":"TextBox 3","text":"功能重心\n宗教、审美与生活方式\n形式如何追随\n佛教推动石窟造像；高坐家具随垂足而坐等生活方式变化而发展。\n关键判断\n宗教传播和起居方式的改变，会带来器物与空间形态的调整。","textPreview":"功能重心 | 宗教、审美与生活方式 | 形式如何追随 | 佛教推动石窟造像；高坐家具随垂足而坐等生活方式变化而发展。 | 关键判断 | 宗教传播和起居方式的改变，会带来器物与空间形态的调整。","textChars":85,"textLines":6,"bbox":[81.6,182.4,700.8,470.4]}
+{"kind":"shape","id":"sh/ydcnatkn","slide":10,"name":"Rounded Rectangle 4","bbox":[820.8,177.6,398.4,398.4]}
+{"kind":"shape","id":"sh/kzu5c32t","slide":10,"name":"TextBox 6","bbox":[48,673.92,576,28.8]}
+{"kind":"textbox","id":"sh/725onyl4","slide":10,"name":"TextBox 7","text":"《中国艺术设计史》· 依「形式追随功能」重读","textPreview":"《中国艺术设计史》· 依「形式追随功能」重读","textChars":22,"textLines":1,"bbox":[48,673.92,576,28.8]}
+{"kind":"textbox","id":"sh/m1cnetkj","slide":10,"name":"TextBox 8","text":"10 / 19","textPreview":"10 / 19","textChars":7,"textLines":1,"bbox":[1097.57,673.92,134.4,28.8]}
+{"kind":"image","id":"im/fip0zylc","slide":10,"name":"Picture 5","bbox":[837.12,193.92,365.76,365.76]}
+{"kind":"notes","id":"nt/m90b6t0r","slide":10,"text":"核对条目：维基百科《云冈石窟》 https://zh.wikipedia.org/wiki/云冈石窟 （访问：2026-09-07）。\n课堂追问：宗教传播、皇家支持和石材条件分别怎样影响石窟形态？"}
+{"kind":"slide","id":"sl/jetc3ut0","slide":11,"title":"第七章 · 隋唐时期","textShapes":4}
+{"kind":"shape","id":"sh/xcryxg7y","slide":11,"name":"Rounded Rectangle 1","bbox":[57.6,52.8,8.64,96]}
+{"kind":"textbox","id":"sh/wbih4b6d","slide":11,"name":"TextBox 2","text":"第七章 · 隋唐时期\n隋·唐","textPreview":"第七章 · 隋唐时期 | 隋·唐","textChars":14,"textLines":2,"bbox":[86.4,49.92,998.4,110.4]}
+{"kind":"textbox","id":"sh/n69grmpw","slide":11,"name":"TextBox 3","text":"功能重心\n开放交流与帝国秩序\n形式如何追随\n金银器、都城与服饰呈现中外交流、制度秩序和生活风尚的共同影响。\n关键判断\n隋唐造物可从交流网络与社会秩序两个层面理解。","textPreview":"功能重心 | 开放交流与帝国秩序 | 形式如何追随 | 金银器、都城与服饰呈现中外交流、制度秩序和生活风尚的共同影响。 | 关键判断 | 隋唐造物可从交流网络与社会秩序两个层面理解。","textChars":81,"textLines":6,"bbox":[81.6,182.4,700.8,470.4]}
+{"kind":"shape","id":"sh/250zy18b","slide":11,"name":"Rounded Rectangle 4","bbox":[820.8,177.6,398.4,398.4]}
+{"kind":"shape","id":"sh/o7ih0r6h","slide":11,"name":"TextBox 6","bbox":[48,673.92,576,28.8]}
+{"kind":"textbox","id":"sh/72t03qp0","slide":11,"name":"TextBox 7","text":"《中国艺术设计史》· 依「形式追随功能」重读","textPreview":"《中国艺术设计史》· 依「形式追随功能」重读","textChars":22,"textLines":1,"bbox":[48,673.92,576,28.8]}
+{"kind":"textbox","id":"sh/61kzalof","slide":11,"name":"TextBox 8","text":"11 / 19","textPreview":"11 / 19","textChars":7,"textLines":1,"bbox":[1097.57,673.92,134.4,28.8]}
+{"kind":"image","id":"im/bq5ovmlw","slide":11,"name":"Picture 5","bbox":[837.12,193.92,365.76,365.76]}
+{"kind":"notes","id":"nt/jetc3ut0","slide":11,"text":"核对条目：维基百科《唐三彩》 https://zh.wikipedia.org/wiki/唐三彩 （访问：2026-09-07）。\n课堂追问：随葬用途、釉彩工艺和跨地域交流如何共同影响器物风格？"}
+{"kind":"slide","id":"sl/8f2psfyx","slide":12,"title":"第八章 · 五代两宋辽金西夏","textShapes":4}
+{"kind":"shape","id":"sh/1gbm9s3a","slide":12,"name":"Rounded Rectangle 1","bbox":[57.6,52.8,8.64,96]}
+{"kind":"textbox","id":"sh/0f2lgnmp","slide":12,"name":"TextBox 2","text":"第八章 · 五代两宋辽金西夏\n五代·两宋·辽金西夏","textPreview":"第八章 · 五代两宋辽金西夏 | 五代·两宋·辽金西夏","textChars":25,"textLines":2,"bbox":[86.4,49.92,998.4,110.4]}
+{"kind":"textbox","id":"sh/ra943il8","slide":12,"name":"TextBox 3","text":"功能重心\n文人审美与市民生活\n形式如何追随\n宋瓷呈现克制、纯净的审美倾向；雕版印刷服务于文本复制与文化传播。\n关键判断\n审美取向与传播需求共同塑造宋代器物和视觉文化。","textPreview":"功能重心 | 文人审美与市民生活 | 形式如何追随 | 宋瓷呈现克制、纯净的审美倾向；雕版印刷服务于文本复制与文化传播。 | 关键判断 | 审美取向与传播需求共同塑造宋代器物和视觉文化。","textChars":83,"textLines":6,"bbox":[81.6,182.4,700.8,470.4]}
+{"kind":"shape","id":"sh/q903ad4n","slide":12,"name":"Rounded Rectangle 4","bbox":[820.8,177.6,398.4,398.4]}
+{"kind":"shape","id":"sh/sb2lcnmd","slide":12,"name":"TextBox 6","bbox":[48,673.92,576,28.8]}
+{"kind":"textbox","id":"sh/b6d4f2lc","slide":12,"name":"TextBox 7","text":"《中国艺术设计史》· 依「形式追随功能」重读","textPreview":"《中国艺术设计史》· 依「形式追随功能」重读","textChars":22,"textLines":1,"bbox":[48,673.92,576,28.8]}
+{"kind":"textbox","id":"sh/a543mx4r","slide":12,"name":"TextBox 8","text":"12 / 19","textPreview":"12 / 19","textChars":7,"textLines":1,"bbox":[1097.57,673.92,134.4,28.8]}
+{"kind":"image","id":"im/rqdo7qls","slide":12,"name":"Picture 5","bbox":[837.12,193.92,365.76,365.76]}
+{"kind":"notes","id":"nt/8f2psfyx","slide":12,"text":"核对条目：维基百科《哥窑》 https://zh.wikipedia.org/wiki/哥窑 、《汝窑》 https://zh.wikipedia.org/wiki/汝窑 （访问：2026-09-07）。\n提示：窑口认定、传世品与考古材料的关系应查阅陶瓷史专著和博物馆资料。"}
+{"kind":"slide","id":"sl/hgzapcr6","slide":13,"title":"第九章 · 元明清时期","textShapes":4}
+{"kind":"shape","id":"sh/q50nydsj","slide":13,"name":"Rounded Rectangle 1","bbox":[57.6,52.8,8.64,96]}
+{"kind":"textbox","id":"sh/bq9orito","slide":13,"name":"TextBox 2","text":"第九章 · 元明清时期\n元·明·清","textPreview":"第九章 · 元明清时期 | 元·明·清","textChars":17,"textLines":2,"bbox":[86.4,49.92,998.4,110.4]}
+{"kind":"textbox","id":"sh/o3i5w3ad","slide":13,"name":"TextBox 3","text":"功能重心\n商品流通与宫廷需求\n形式如何追随\n明式家具重视结构、比例与使用感受；青花瓷和版画的生产与流通更为活跃。\n关键判断\n明式家具可作为讨论结构、材料、人体尺度与审美关系的案例。","textPreview":"功能重心 | 商品流通与宫廷需求 | 形式如何追随 | 明式家具重视结构、比例与使用感受；青花瓷和版画的生产与流通更为活跃。 | 关键判断 | 明式家具可作为讨论结构、材料、人体尺度与审美关系的案例。","textChars":90,"textLines":6,"bbox":[81.6,182.4,700.8,470.4]}
+{"kind":"shape","id":"sh/p4r6p8by","slide":13,"name":"Rounded Rectangle 4","bbox":[820.8,177.6,398.4,398.4]}
+{"kind":"shape","id":"sh/32ponyts","slide":13,"name":"TextBox 6","bbox":[48,673.92,576,28.8]}
+{"kind":"textbox","id":"sh/gzy5s3a1","slide":13,"name":"TextBox 7","text":"《中国艺术设计史》· 依「形式追随功能」重读","textPreview":"《中国艺术设计史》· 依「形式追随功能」重读","textChars":22,"textLines":1,"bbox":[48,673.92,576,28.8]}
+{"kind":"textbox","id":"sh/1076lobm","slide":13,"name":"TextBox 8","text":"13 / 19","textPreview":"13 / 19","textChars":7,"textLines":1,"bbox":[1097.57,673.92,134.4,28.8]}
+{"kind":"image","id":"im/ax8jq5cr","slide":13,"name":"Picture 5","bbox":[837.12,193.92,365.76,365.76]}
+{"kind":"notes","id":"nt/hgzapcr6","slide":13,"text":"核对条目：维基百科《明式家具》 https://zh.wikipedia.org/wiki/明式家具 （访问：2026-09-07）。\n课堂追问：榫卯、硬木材料和人体尺度怎样共同形成‘结构美’？"}
+{"kind":"slide","id":"sl/6lsnupw7","slide":14,"title":"第十章 · 近现代设计","textShapes":4}
+{"kind":"shape","id":"sh/xc7eds76","slide":14,"name":"Rounded Rectangle 1","bbox":[57.6,52.8,8.64,96]}
+{"kind":"textbox","id":"sh/wbydknq1","slide":14,"name":"TextBox 2","text":"第十章 · 近现代设计\n近现代","textPreview":"第十章 · 近现代设计 | 近现代","textChars":15,"textLines":2,"bbox":[86.4,49.92,998.4,110.4]}
+{"kind":"textbox","id":"sh/jepwf2pc","slide":14,"name":"TextBox 3","text":"功能重心\n工业化与现代生活\n形式如何追随\n机器生产、大众消费和新媒介改变了设计的生产方式与使用场景。\n关键判断\n近现代设计把传统造物带入工业体系与现代设计教育的语境。","textPreview":"功能重心 | 工业化与现代生活 | 形式如何追随 | 机器生产、大众消费和新媒介改变了设计的生产方式与使用场景。 | 关键判断 | 近现代设计把传统造物带入工业体系与现代设计教育的语境。","textChars":83,"textLines":6,"bbox":[81.6,182.4,700.8,470.4]}
+{"kind":"shape","id":"sh/idgvmx8r","slide":14,"name":"Rounded Rectangle 4","bbox":[820.8,177.6,398.4,398.4]}
+{"kind":"shape","id":"sh/kfidonqx","slide":14,"name":"TextBox 6","bbox":[48,673.92,576,28.8]}
+{"kind":"textbox","id":"sh/zi5c3y98","slide":14,"name":"TextBox 7","text":"《中国艺术设计史》· 依「形式追随功能」重读","textPreview":"《中国艺术设计史》· 依「形式追随功能」重读","textChars":22,"textLines":1,"bbox":[48,673.92,576,28.8]}
+{"kind":"textbox","id":"sh/ehwvat8n","slide":14,"name":"TextBox 8","text":"14 / 19","textPreview":"14 / 19","textChars":7,"textLines":1,"bbox":[1097.57,673.92,134.4,28.8]}
+{"kind":"image","id":"im/fu1cza1s","slide":14,"name":"Picture 5","bbox":[837.12,193.92,365.76,365.76]}
+{"kind":"notes","id":"nt/6lsnupw7","slide":14,"text":"核对条目：维基百科《路易斯·沙利文》 https://zh.wikipedia.org/wiki/路易斯·沙利文 （访问：2026-09-07）。\n背景：1896年论文《The Tall Office Building Artistically Considered》常与‘form ever follows function’相关联。此口号用于比较中西设计思想时，应注意其历史语境。"}
+{"kind":"slide","id":"sl/vaxsvy10","slide":15,"title":"知识拓展 · 第一～五章","textShapes":18}
+{"kind":"shape","id":"sh/547mhg3m","slide":15,"name":"Rounded Rectangle 1","bbox":[57.6,52.8,8.64,96]}
+{"kind":"textbox","id":"sh/k3y5ov21","slide":15,"name":"TextBox 2","text":"知识拓展 · 第一～五章\n每章一个关键知识点，附维基百科出处","textPreview":"知识拓展 · 第一～五章 | 每章一个关键知识点，附维基百科出处","textChars":30,"textLines":2,"bbox":[86.4,49.92,1113.6,110.4]}
+{"kind":"shape","id":"sh/76p4jqls","slide":15,"name":"Rounded Rectangle 3","bbox":[67.2,163.2,1145.28,91.2]}
+{"kind":"shape","id":"sh/65gnqlk7","slide":15,"name":"Rectangle 4","bbox":[67.2,163.2,7.68,91.2]}
+{"kind":"textbox","id":"sh/t87ml0ji","slide":15,"name":"TextBox 5","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[91.2,174.72,57.6,69.12]}
+{"kind":"textbox","id":"sh/s7y5sv2x","slide":15,"name":"TextBox 6","text":"人面鱼纹彩陶盆\n出处：维基百科「仰韶文化」","textPreview":"人面鱼纹彩陶盆 | 出处：维基百科「仰韶文化」","textChars":21,"textLines":2,"bbox":[163.2,169.92,316.8,78.72]}
+{"kind":"textbox","id":"sh/na5476l8","slide":15,"name":"TextBox 7","text":"\n仰韶文化彩陶代表作（约6000年前），1955年陕西西安半坡遗址出土，高16.5厘米、口径39.8厘米，现藏中国国家博物馆。","textPreview":"| 仰韶文化彩陶代表作（约6000年前），1955年陕西西安半坡遗址出土，高16.5厘米、口径39.8厘米，现藏中国国家博物馆。","textChars":63,"textLines":2,"bbox":[499.2,172.8,686.4,72.96]}
+{"kind":"shape","id":"sh/m9c3e1kn","slide":15,"name":"Rounded Rectangle 8","bbox":[67.2,261.12,1145.28,91.2]}
+{"kind":"shape","id":"sh/wrm9kvep","slide":15,"name":"Rectangle 9","bbox":[67.2,261.12,7.68,91.2]}
+{"kind":"textbox","id":"sh/hsvat0fa","slide":15,"name":"TextBox 10","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[91.2,272.64,57.6,69.12]}
+{"kind":"textbox","id":"sh/upkrilwj","slide":15,"name":"TextBox 11","text":"良渚玉琮\n出处：维基百科「良渚文化」","textPreview":"良渚玉琮 | 出处：维基百科「良渚文化」","textChars":18,"textLines":2,"bbox":[163.2,267.84,316.8,78.72]}
+{"kind":"textbox","id":"sh/vqdsrqx4","slide":15,"name":"TextBox 12","text":"\n良渚文化（约5300—4000年前，长江下游）玉琮“内圆外方”，体现“天圆地方”宇宙观，是通天地、祭神礼地的礼器。","textPreview":"| 良渚文化（约5300—4000年前，长江下游）玉琮“内圆外方”，体现“天圆地方”宇宙观，是通天地、祭神礼地的礼器。","textChars":58,"textLines":2,"bbox":[499.2,270.72,686.4,72.96]}
+{"kind":"shape","id":"sh/4vm9ovel","slide":15,"name":"Rounded Rectangle 13","bbox":[67.2,359.04,1145.28,91.2]}
+{"kind":"shape","id":"sh/5wvax0f6","slide":15,"name":"Rectangle 14","bbox":[67.2,359.04,7.68,91.2]}
+{"kind":"textbox","id":"sh/it4rm5wv","slide":15,"name":"TextBox 15","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[91.2,370.56,57.6,69.12]}
+{"kind":"textbox","id":"sh/judsvqxg","slide":15,"name":"TextBox 16","text":"后母戊鼎\n出处：维基百科「后母戊鼎」","textPreview":"后母戊鼎 | 出处：维基百科「后母戊鼎」","textChars":18,"textLines":2,"bbox":[163.2,365.76,316.8,78.72]}
+{"kind":"textbox","id":"sh/0z29cbyh","slide":15,"name":"TextBox 17","text":"\n商代晚期青铜方鼎，1939年河南安阳出土，通高133厘米、重832.84千克，中国最重商代青铜礼器，饰兽面纹与夔龙纹。","textPreview":"| 商代晚期青铜方鼎，1939年河南安阳出土，通高133厘米、重832.84千克，中国最重商代青铜礼器，饰兽面纹与夔龙纹。","textChars":60,"textLines":2,"bbox":[499.2,368.64,686.4,72.96]}
+{"kind":"shape","id":"sh/l0bqlgf2","slide":15,"name":"Rounded Rectangle 18","bbox":[67.2,456.96,1145.28,91.2]}
+{"kind":"shape","id":"sh/1kjyt83e","slide":15,"name":"Rectangle 19","bbox":[67.2,456.96,7.68,91.2]}
+{"kind":"textbox","id":"sh/gjax03m9","slide":15,"name":"TextBox 20","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[91.2,468.48,57.6,69.12]}
+{"kind":"textbox","id":"sh/fi1grylo","slide":15,"name":"TextBox 21","text":"考工记\n出处：维基百科「考工记」","textPreview":"考工记 | 出处：维基百科「考工记」","textChars":16,"textLines":2,"bbox":[163.2,463.68,316.8,78.72]}
+{"kind":"textbox","id":"sh/ehsfyt43","slide":15,"name":"TextBox 22","text":"\n先秦工艺专著，提出“天有时、地有气、材有美、工有巧”，是“形式追随功能”的第一次系统理论化。","textPreview":"| 先秦工艺专著，提出“天有时、地有气、材有美、工有巧”，是“形式追随功能”的第一次系统理论化。","textChars":47,"textLines":2,"bbox":[499.2,466.56,686.4,72.96]}
+{"kind":"shape","id":"sh/p8jyx83q","slide":15,"name":"Rounded Rectangle 23","bbox":[67.2,554.88,1145.28,91.2]}
+{"kind":"shape","id":"sh/o7ah4nm5","slide":15,"name":"Rectangle 24","bbox":[67.2,554.88,7.68,91.2]}
+{"kind":"textbox","id":"sh/361gvilk","slide":15,"name":"TextBox 25","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[91.2,566.4,57.6,69.12]}
+{"kind":"textbox","id":"sh/25sf2d4z","slide":15,"name":"TextBox 26","text":"秦始皇兵马俑\n出处：维基百科「秦始皇兵马俑」","textPreview":"秦始皇兵马俑 | 出处：维基百科「秦始皇兵马俑」","textChars":22,"textLines":2,"bbox":[163.2,561.6,316.8,78.72]}
+{"kind":"textbox","id":"sh/dc3y1s3m","slide":15,"name":"TextBox 27","text":"\n1974年陕西临潼发现，属秦始皇陵陪葬坑，以千件等身陶俑再现统一帝国军阵与“事死如事生”观念。","textPreview":"| 1974年陕西临潼发现，属秦始皇陵陪葬坑，以千件等身陶俑再现统一帝国军阵与“事死如事生”观念。","textChars":48,"textLines":2,"bbox":[499.2,564.48,686.4,72.96]}
+{"kind":"shape","id":"sh/cbuh8nmh","slide":15,"name":"TextBox 28","bbox":[48,673.92,576,28.8]}
+{"kind":"textbox","id":"sh/uh4v2pkj","slide":15,"name":"TextBox 29","text":"《中国艺术设计史》· 依「形式追随功能」重读","textPreview":"《中国艺术设计史》· 依「形式追随功能」重读","textChars":22,"textLines":1,"bbox":[48,673.92,576,28.8]}
+{"kind":"textbox","id":"sh/vixcvu14","slide":15,"name":"TextBox 30","text":"15 / 19","textPreview":"15 / 19","textChars":7,"textLines":1,"bbox":[1097.57,673.92,134.4,28.8]}
+{"kind":"notes","id":"nt/vaxsvy10","slide":15,"text":""}
+{"kind":"slide","id":"sl/gny5sjyp","slide":16,"title":"知识拓展 · 第六～十章","textShapes":18}
+{"kind":"shape","id":"sh/8z2h8bq1","slide":16,"name":"Rounded Rectangle 1","bbox":[57.6,52.8,8.64,96]}
+{"kind":"textbox","id":"sh/9kby1g7m","slide":16,"name":"TextBox 2","text":"知识拓展 · 第六～十章\n每章一个关键知识点，附维基百科出处","textPreview":"知识拓展 · 第六～十章 | 每章一个关键知识点，附维基百科出处","textChars":30,"textLines":2,"bbox":[86.4,49.92,1113.6,110.4]}
+{"kind":"shape","id":"sh/ytkf2h8j","slide":16,"name":"Rounded Rectangle 3","bbox":[67.2,163.2,1145.28,91.2]}
+{"kind":"shape","id":"sh/zutgvm94","slide":16,"name":"Rectangle 4","bbox":[67.2,163.2,7.68,91.2]}
+{"kind":"textbox","id":"sh/kv2h4rqp","slide":16,"name":"TextBox 5","text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[91.2,174.72,57.6,69.12]}
+{"kind":"textbox","id":"sh/lwbyxwra","slide":16,"name":"TextBox 6","text":"云冈石窟\n出处：维基百科「云冈石窟」","textPreview":"云冈石窟 | 出处：维基百科「云冈石窟」","textChars":18,"textLines":2,"bbox":[163.2,169.92,316.8,78.72]}
+{"kind":"textbox","id":"sh/ip4zel83","slide":16,"name":"TextBox 7","text":"\n位于今山西大同，始凿于北魏文成帝和平年间（460年起），历时60余年，现存主要洞窟45个，为北魏皇家石窟。","textPreview":"| 位于今山西大同，始凿于北魏文成帝和平年间（460年起），历时60余年，现存主要洞窟45个，为北魏皇家石窟。","textChars":54,"textLines":2,"bbox":[499.2,172.8,686.4,72.96]}
+{"kind":"shape","id":"sh/3qdg7qpo","slide":16,"name":"Rounded Rectangle 8","bbox":[67.2,261.12,1145.28,91.2]}
+{"kind":"shape","id":"sh/fm1gzq5o","slide":16,"name":"Rectangle 9","bbox":[67.2,261.12,7.68,91.2]}
+{"kind":"textbox","id":"sh/e1sf65o3","slide":16,"name":"TextBox 10","text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[91.2,272.64,57.6,69.12]}
+{"kind":"textbox","id":"sh/1ojy10ne","slide":16,"name":"TextBox 11","text":"唐三彩\n出处：维基百科「唐三彩」","textPreview":"唐三彩 | 出处：维基百科「唐三彩」","textChars":16,"textLines":2,"bbox":[163.2,267.84,316.8,78.72]}
+{"kind":"textbox","id":"sh/gnax8v6t","slide":16,"name":"TextBox 12","text":"\n唐代低温铅釉陶器，釉彩以黄、绿、白（褐）为主，多用于随葬明器，是盛唐气象与中外交流的物化。","textPreview":"| 唐代低温铅釉陶器，釉彩以黄、绿、白（褐）为主，多用于随葬明器，是盛唐气象与中外交流的物化。","textChars":46,"textLines":2,"bbox":[499.2,270.72,686.4,72.96]}
+{"kind":"shape","id":"sh/nqlg3a5k","slide":16,"name":"Rounded Rectangle 13","bbox":[67.2,359.04,1145.28,91.2]}
+{"kind":"shape","id":"sh/2pcfa5oz","slide":16,"name":"Rectangle 14","bbox":[67.2,359.04,7.68,91.2]}
+{"kind":"textbox","id":"sh/ps3y5knq","slide":16,"name":"TextBox 15","text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[91.2,370.56,57.6,69.12]}
+{"kind":"textbox","id":"sh/oruhcf65","slide":16,"name":"TextBox 16","text":"宋代开片瓷（哥窑·汝窑）\n出处：维基百科「哥窑」","textPreview":"宋代开片瓷（哥窑·汝窑） | 出处：维基百科「哥窑」","textChars":24,"textLines":2,"bbox":[163.2,365.76,316.8,78.72]}
+{"kind":"textbox","id":"sh/bulg7u5g","slide":16,"name":"TextBox 17","text":"\n宋代以自然“开片”为美：哥窑“金丝铁线、紫口铁足”，汝窑冰裂纹开片——尚意审美催生的釉色极简。","textPreview":"| 宋代以自然“开片”为美：哥窑“金丝铁线、紫口铁足”，汝窑冰裂纹开片——尚意审美催生的釉色极简。","textChars":48,"textLines":2,"bbox":[499.2,368.64,686.4,72.96]}
+{"kind":"shape","id":"sh/atczepob","slide":16,"name":"Rounded Rectangle 18","bbox":[67.2,456.96,1145.28,91.2]}
+{"kind":"shape","id":"sh/mpgj6t8j","slide":16,"name":"Rectangle 19","bbox":[67.2,456.96,7.68,91.2]}
+{"kind":"textbox","id":"sh/7qp0zepo","slide":16,"name":"TextBox 20","text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[91.2,468.48,57.6,69.12]}
+{"kind":"textbox","id":"sh/8by18jq9","slide":16,"name":"TextBox 21","text":"明式圈椅\n出处：维基百科「明式家具」","textPreview":"明式圈椅 | 出处：维基百科「明式家具」","textChars":18,"textLines":2,"bbox":[163.2,463.68,316.8,78.72]}
+{"kind":"textbox","id":"sh/9c7i1o7u","slide":16,"name":"TextBox 22","text":"\n圈椅为明式家具代表，造型简练、以线为主，腿足“外圆内方”，通体榫卯不施钉，尺度合人体曲线。","textPreview":"| 圈椅为明式家具代表，造型简练、以线为主，腿足“外圆内方”，通体榫卯不施钉，尺度合人体曲线。","textChars":46,"textLines":2,"bbox":[499.2,466.56,686.4,72.96]}
+{"kind":"shape","id":"sh/ylwj2987","slide":16,"name":"Rounded Rectangle 23","bbox":[67.2,554.88,1145.28,91.2]}
+{"kind":"shape","id":"sh/zm50veps","slide":16,"name":"Rectangle 24","bbox":[67.2,554.88,7.68,91.2]}
+{"kind":"textbox","id":"sh/kne14jqd","slide":16,"name":"TextBox 25","text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[91.2,566.4,57.6,69.12]}
+{"kind":"textbox","id":"sh/lo7ixo7y","slide":16,"name":"TextBox 26","text":"形式追随功能\n出处：维基百科「路易斯·沙利文」","textPreview":"形式追随功能 | 出处：维基百科「路易斯·沙利文」","textChars":23,"textLines":2,"bbox":[163.2,561.6,316.8,78.72]}
+{"kind":"textbox","id":"sh/ih0jedob","slide":16,"name":"TextBox 27","text":"\n美国建筑师路易斯·沙利文（1856—1924）1896年于《高层办公建筑的艺术考虑》提出，成现代功能主义口号。","textPreview":"| 美国建筑师路易斯·沙利文（1856—1924）1896年于《高层办公建筑的艺术考虑》提出，成现代功能主义口号。","textChars":56,"textLines":2,"bbox":[499.2,564.48,686.4,72.96]}
+{"kind":"shape","id":"sh/ji9k7ypw","slide":16,"name":"TextBox 28","bbox":[48,673.92,576,28.8]}
+{"kind":"textbox","id":"sh/tcbmdcre","slide":16,"name":"TextBox 29","text":"《中国艺术设计史》· 依「形式追随功能」重读","textPreview":"《中国艺术设计史》· 依「形式追随功能」重读","textChars":22,"textLines":1,"bbox":[48,673.92,576,28.8]}
+{"kind":"textbox","id":"sh/sb2l47at","slide":16,"name":"TextBox 30","text":"16 / 19","textPreview":"16 / 19","textChars":7,"textLines":1,"bbox":[1097.57,673.92,134.4,28.8]}
+{"kind":"notes","id":"nt/gny5sjyp","slide":16,"text":""}
+{"kind":"slide","id":"sl/14bup87q","slide":17,"title":"贯穿性结论","textShapes":9}
+{"kind":"shape","id":"sh/1c7e50ni","slide":17,"name":"Rounded Rectangle 1","bbox":[57.6,52.8,8.64,96]}
+{"kind":"textbox","id":"sh/gbedwfmx","slide":17,"name":"TextBox 2","text":"贯穿性结论","textPreview":"贯穿性结论","textChars":5,"textLines":1,"bbox":[86.4,57.6,864,96]}
+{"kind":"shape","id":"sh/rm5czq50","slide":17,"name":"Rounded Rectangle 3","bbox":[67.2,168,1152,148.8]}
+{"kind":"shape","id":"sh/6lwvql4v","slide":17,"name":"Oval 4","bbox":[91.2,193.92,52.8,52.8]}
+{"kind":"textbox","id":"sh/t8ne10n6","slide":17,"name":"TextBox 5","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[91.2,200.64,52.8,40.32]}
+{"kind":"textbox","id":"sh/snedsvml","slide":17,"name":"TextBox 6","text":"三重视角  中国古代造物可从实用、礼仪象征与审美生活三个维度观察。\n礼仪象征是理解不少器物形制、纹样和使用场景的重要线索，但不应取代对材料与使用方式的分析。","textPreview":"三重视角  中国古代造物可从实用、礼仪象征与审美生活三个维度观察。 | 礼仪象征是理解不少器物形制、纹样和使用场景的重要线索，但不应取代对材料与使用方式的分析。","textChars":78,"textLines":2,"bbox":[168,181.44,1027.2,129.6]}
+{"kind":"shape","id":"sh/jilcvq54","slide":17,"name":"Rounded Rectangle 7","bbox":[67.2,329.28,1152,148.8]}
+{"kind":"shape","id":"sh/ihcvml4j","slide":17,"name":"Oval 8","bbox":[91.2,355.2,52.8,52.8]}
+{"kind":"textbox","id":"sh/4by9or6l","slide":17,"name":"TextBox 9","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[91.2,361.92,52.8,40.32]}
+{"kind":"textbox","id":"sh/pc7qhwn6","slide":17,"name":"TextBox 10","text":"技术与材料  功能提出使用要求，材料性能与工艺能力共同限定形态的实现。\n以《考工记》为例，可把时令、环境、材料和工艺放入同一造物条件中考察。","textPreview":"技术与材料  功能提出使用要求，材料性能与工艺能力共同限定形态的实现。 | 以《考工记》为例，可把时令、环境、材料和工艺放入同一造物条件中考察。","textChars":70,"textLines":2,"bbox":[168,342.72,1027.2,129.6]}
+{"kind":"shape","id":"sh/29grm1of","slide":17,"name":"Rounded Rectangle 11","bbox":[67.2,490.56,1152,148.8]}
+{"kind":"shape","id":"sh/3ap8fm50","slide":17,"name":"Oval 12","bbox":[91.2,516.48,52.8,52.8]}
+{"kind":"textbox","id":"sh/gnepkr69","slide":17,"name":"TextBox 13","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[91.2,523.2,52.8,40.32]}
+{"kind":"textbox","id":"sh/honqdwnu","slide":17,"name":"TextBox 14","text":"历史变化  功能重心会随生产方式、礼仪制度、宗教传播和消费生活而改变。\n从史前工具到近现代设计，器物形态始终与具体的社会需求和技术条件相互关联。","textPreview":"历史变化  功能重心会随生产方式、礼仪制度、宗教传播和消费生活而改变。 | 从史前工具到近现代设计，器物形态始终与具体的社会需求和技术条件相互关联。","textChars":72,"textLines":2,"bbox":[168,504,1027.2,129.6]}
+{"kind":"shape","id":"sh/ulw7ihoj","slide":17,"name":"TextBox 15","bbox":[48,673.92,576,28.8]}
+{"kind":"textbox","id":"sh/fm58bm54","slide":17,"name":"TextBox 16","text":"《中国艺术设计史》· 依「形式追随功能」重读","textPreview":"《中国艺术设计史》· 依「形式追随功能」重读","textChars":22,"textLines":1,"bbox":[48,673.92,576,28.8]}
+{"kind":"textbox","id":"sh/0ji9wb6t","slide":17,"name":"TextBox 17","text":"17 / 19","textPreview":"17 / 19","textChars":7,"textLines":1,"bbox":[1097.57,673.92,134.4,28.8]}
+{"kind":"notes","id":"nt/14bup87q","slide":17,"text":"参考：祝帅《全球设计史观与中国设计主体性的建构——兼谈“世界设计史”研究的学科意义及学术启示》，《艺术设计研究》2021年；杭间《中国的设计史问题——关于上海的中国设计史年会》，《美术观察》2007年第12期。\n课堂提示：避免把中国设计史讲成孤立的器物史，也避免用单一西方功能主义概念覆盖全部中国经验。"}
+{"kind":"slide","id":"sl/y5wne50z","slide":18,"title":"研究与资料来源","textShapes":5}
+{"kind":"shape","id":"sh/wrelszu9","slide":18,"name":"Rounded Rectangle 1","bbox":[57.6,52.8,8.64,96]}
+{"kind":"textbox","id":"sh/hsn2l4bu","slide":18,"name":"TextBox 2","text":"研究与资料来源\n教材提供章节脉络；期刊论文用于方法与史学问题；维基百科条目用于课堂核对与延伸检索。","textPreview":"研究与资料来源 | 教材提供章节脉络；期刊论文用于方法与史学问题；维基百科条目用于课堂核对与延伸检索。","textChars":49,"textLines":2,"bbox":[86.4,49.92,1113.6,110.4]}
+{"kind":"textbox","id":"sh/itw3upcf","slide":18,"name":"TextBox 3","text":"教材与学术期刊\n\n夏燕靖：《中国艺术设计史》（第3版）\n课件章节与基本叙事依据\n\n应宜文：《“设计”考辨——对中国设计史的一种新认识》\n《美术研究》2018年第1期\n\n祝帅：《全球设计史观与中国设计主体性的建构》\n《艺术设计研究》2021年\n\n杭间：《中国的设计史问题——关于上海的中国设计史年会》\n《美术观察》2007年第12期，第25页","textPreview":"教材与学术期刊 |  | 夏燕靖：《中国艺术设计史》（第3版） | 课件章节与基本叙事依据 |  | 应宜文：《“设计”考辨——对中国设计史的一种新认识》 | 《美术研究》2018年第1期 |  | 祝帅：《全球设计史观与中国设计主体性的建构》 | 《艺术设计研究》2021...","textChars":170,"textLines":13,"bbox":[81.6,168,547.2,480]}
+{"kind":"textbox","id":"sh/je5knut0","slide":18,"name":"TextBox 4","text":"维基百科核对条目\n\n仰韶文化、良渚文化、后母戊鼎、考工记\n秦始皇兵马俑、云冈石窟、唐三彩\n哥窑、汝窑、明式家具、路易斯·沙利文\n\n使用提示\n维基条目适合核对年代、地点、术语和关联条目。课堂论证应回到教材、考古报告、博物馆资料或学术论文。\n\n链接入口\nhttps://zh.wikipedia.org/wiki/仰韶文化\nhttps://zh.wikipedia.org/wiki/良渚文化\nhttps://zh.wikipedia.org/wiki/后母戊鼎\nhttps://zh.wikipedia.org/wiki/路易斯·沙利文","textPreview":"维基百科核对条目 |  | 仰韶文化、良渚文化、后母戊鼎、考工记 | 秦始皇兵马俑、云冈石窟、唐三彩 | 哥窑、汝窑、明式家具、路易斯·沙利文 |  | 使用提示 | 维基条目适合核对年代、地点、术语和关联条目。课堂论证应回到教材、考古报告、博物馆资料或学术论文。 |  |...","textChars":267,"textLines":14,"bbox":[652.8,168,561.6,480]}
+{"kind":"shape","id":"sh/4felwzu5","slide":18,"name":"TextBox 5","bbox":[48,673.92,576,28.8]}
+{"kind":"textbox","id":"sh/5gnmp4bq","slide":18,"name":"TextBox 6","text":"《中国艺术设计史》· 依「形式追随功能」重读","textPreview":"《中国艺术设计史》· 依「形式追随功能」重读","textChars":22,"textLines":1,"bbox":[48,673.92,576,28.8]}
+{"kind":"textbox","id":"sh/6hw3y9sb","slide":18,"name":"TextBox 7","text":"18 / 19","textPreview":"18 / 19","textChars":7,"textLines":1,"bbox":[1097.57,673.92,134.4,28.8]}
+{"kind":"notes","id":"nt/y5wne50z","slide":18,"text":"学术期刊检索与条目核对日期：2026-09-07。\n期刊：应宜文，《“设计”考辨——对中国设计史的一种新认识》，《美术研究》2018年第1期；祝帅，《全球设计史观与中国设计主体性的建构》，《艺术设计研究》2021年；杭间，《中国的设计史问题——关于上海的中国设计史年会》，《美术观察》2007年第12期，第25页。\n维基百科条目用于课堂检索入口，不能替代学术来源。\n链接： https://zh.wikipedia.org/wiki/仰韶文化 ; https://zh.wikipedia.org/wiki/良渚文化 ; https://zh.wikipedia.org/wiki/后母戊鼎 ; https://zh.wikipedia.org/wiki/路易斯·沙利文"}
+{"kind":"slide","id":"sl/nid43ytk","slide":19,"title":"谢谢观看","textShapes":1}
+{"kind":"shape","id":"sh/9gb6xgbi","slide":19,"name":"Rectangle 1","bbox":[0,0,1279.97,15.36]}
+{"kind":"shape","id":"sh/8v2pobax","slide":19,"name":"Rectangle 2","bbox":[0,704.64,1279.97,15.36]}
+{"kind":"textbox","id":"sh/ahk7qls3","slide":19,"name":"TextBox 4","text":"谢谢观看\n形式追随功能，功能因时而变。\n读懂一部造物史，即读懂一部「需求」如何塑造「形态」的历史。","textPreview":"谢谢观看 | 形式追随功能，功能因时而变。 | 读懂一部造物史，即读懂一部「需求」如何塑造「形态」的历史。","textChars":49,"textLines":3,"bbox":[86.4,220.8,768,249.6]}
+{"kind":"image","id":"im/svqdkf2t","slide":19,"name":"Picture 3","bbox":[902.4,345.6,211.2,211.2]}
+{"kind":"notes","id":"nt/nid43ytk","slide":19,"text":""}

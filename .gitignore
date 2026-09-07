@@ -1,0 +1,16 @@
+# ==== 技术性条目（符号链接 / 运行时缓存，非项目内容）====
+.codex-build/node_modules/
+
+# ==== Python ====
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+build/
+dist/
+*.egg-info/
+
+# ==== 系统 / 编辑器 ====
+.DS_Store
+Thumbs.db
+*.log
